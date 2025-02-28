@@ -1,0 +1,6057 @@
+{
+   "val_results": [
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_225931_CLEMENTINE_Encoder_SURFACE1/20250218_0847_000146.npz",
+         "scores": {
+            "green": 0.361,
+            "hollow": 0.261,
+            "insect": 0.272,
+            "oil_spots": 0.317,
+            "plu_stickers": 0.296,
+            "rotten": 0.456,
+            "scars": 0.303,
+            "skin_breakdown": 0.28,
+            "surface": 0.843
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_225931_CLEMENTINE_Encoder_SURFACE1/20250218_0847_000145.npz",
+         "scores": {
+            "green": 0.361,
+            "hollow": 0.248,
+            "insect": 0.261,
+            "oil_spots": 0.469,
+            "plu_stickers": 0.287,
+            "rotten": 0.777,
+            "scars": 0.328,
+            "skin_breakdown": 0.268,
+            "surface": 0.333
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_225931_CLEMENTINE_Encoder_SURFACE1/20250218_0847_000144.npz",
+         "scores": {
+            "green": 0.252,
+            "hollow": 0.248,
+            "insect": 0.263,
+            "oil_spots": 0.326,
+            "plu_stickers": 0.291,
+            "rotten": 0.465,
+            "scars": 0.316,
+            "skin_breakdown": 0.279,
+            "surface": 0.638
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220804_221439_CLEMENTINE_ENCODER_Hollow/20250218_1113_000470.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.286,
+            "insect": 0.263,
+            "oil_spots": 0.361,
+            "plu_stickers": 0.289,
+            "rotten": 0.547,
+            "scars": 0.275,
+            "skin_breakdown": 0.263,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220804_221439_CLEMENTINE_ENCODER_Hollow/20250218_1113_002324.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.27,
+            "insect": 0.266,
+            "oil_spots": 0.421,
+            "plu_stickers": 0.305,
+            "rotten": 0.407,
+            "scars": 0.273,
+            "skin_breakdown": 0.303,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220804_221439_CLEMENTINE_ENCODER_Hollow/20250218_1113_000467.npz",
+         "scores": {
+            "green": 0.247,
+            "hollow": 0.513,
+            "insect": 0.238,
+            "oil_spots": 0.411,
+            "plu_stickers": 0.284,
+            "rotten": 0.432,
+            "scars": 0.252,
+            "skin_breakdown": 0.231,
+            "surface": 0.234
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_230921_CLEMENTINE_Encoder_OilSpots/20250217_1706_000036.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.226,
+            "insect": 0.254,
+            "oil_spots": 0.961,
+            "plu_stickers": 0.268,
+            "rotten": 0.303,
+            "scars": 0.268,
+            "skin_breakdown": 0.229,
+            "surface": 0.228
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_230921_CLEMENTINE_Encoder_OilSpots/20250217_1705_000022.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.257,
+            "insect": 0.266,
+            "oil_spots": 0.957,
+            "plu_stickers": 0.289,
+            "rotten": 0.314,
+            "scars": 0.347,
+            "skin_breakdown": 0.266,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_230921_CLEMENTINE_Encoder_OilSpots/20250217_1706_002021.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.277,
+            "insect": 0.273,
+            "oil_spots": 0.971,
+            "plu_stickers": 0.291,
+            "rotten": 0.54,
+            "scars": 0.28,
+            "skin_breakdown": 0.293,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_230515_CLEMENTINE_Encoder_Creasing1/20250218_0851_000159.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.272,
+            "insect": 0.275,
+            "oil_spots": 0.566,
+            "plu_stickers": 0.3,
+            "rotten": 0.518,
+            "scars": 0.3,
+            "skin_breakdown": 0.264,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_230515_CLEMENTINE_Encoder_Creasing1/20250218_0851_000158.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.261,
+            "insect": 0.263,
+            "oil_spots": 0.626,
+            "plu_stickers": 0.293,
+            "rotten": 0.407,
+            "scars": 0.296,
+            "skin_breakdown": 0.259,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_230515_CLEMENTINE_Encoder_Creasing1/20250218_0851_002109.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.263,
+            "insect": 0.257,
+            "oil_spots": 0.691,
+            "plu_stickers": 0.293,
+            "rotten": 0.446,
+            "scars": 0.291,
+            "skin_breakdown": 0.277,
+            "surface": 0.245
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good/20250217_1716_002085.npz",
+         "scores": {
+            "green": 0.257,
+            "hollow": 0.27,
+            "insect": 0.266,
+            "oil_spots": 0.74,
+            "plu_stickers": 0.291,
+            "rotten": 0.307,
+            "scars": 0.273,
+            "skin_breakdown": 0.277,
+            "surface": 0.24
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good/20250217_1716_002076.npz",
+         "scores": {
+            "green": 0.264,
+            "hollow": 0.28,
+            "insect": 0.27,
+            "oil_spots": 0.742,
+            "plu_stickers": 0.298,
+            "rotten": 0.324,
+            "scars": 0.287,
+            "skin_breakdown": 0.287,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good/20250217_1716_002066.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.275,
+            "insect": 0.266,
+            "oil_spots": 0.787,
+            "plu_stickers": 0.293,
+            "rotten": 0.312,
+            "scars": 0.28,
+            "skin_breakdown": 0.279,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good/20250217_1716_002068.npz",
+         "scores": {
+            "green": 0.257,
+            "hollow": 0.268,
+            "insect": 0.268,
+            "oil_spots": 0.702,
+            "plu_stickers": 0.296,
+            "rotten": 0.314,
+            "scars": 0.277,
+            "skin_breakdown": 0.275,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good/20250217_1716_000075.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.263,
+            "insect": 0.27,
+            "oil_spots": 0.698,
+            "plu_stickers": 0.301,
+            "rotten": 0.324,
+            "scars": 0.28,
+            "skin_breakdown": 0.27,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good/20250217_1715_002058.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.266,
+            "insect": 0.264,
+            "oil_spots": 0.795,
+            "plu_stickers": 0.291,
+            "rotten": 0.303,
+            "scars": 0.273,
+            "skin_breakdown": 0.275,
+            "surface": 0.244
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good/20250217_1716_000081.npz",
+         "scores": {
+            "green": 0.233,
+            "hollow": 0.231,
+            "insect": 0.277,
+            "oil_spots": 0.707,
+            "plu_stickers": 0.275,
+            "rotten": 0.514,
+            "scars": 0.261,
+            "skin_breakdown": 0.243,
+            "surface": 0.232
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good/20250217_1716_002072.npz",
+         "scores": {
+            "green": 0.252,
+            "hollow": 0.256,
+            "insect": 0.261,
+            "oil_spots": 0.509,
+            "plu_stickers": 0.287,
+            "rotten": 0.303,
+            "scars": 0.263,
+            "skin_breakdown": 0.268,
+            "surface": 0.239
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good/20250217_1716_002071.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.261,
+            "insect": 0.263,
+            "oil_spots": 0.564,
+            "plu_stickers": 0.284,
+            "rotten": 0.303,
+            "scars": 0.287,
+            "skin_breakdown": 0.279,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good/20250217_1716_002064.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.277,
+            "insect": 0.264,
+            "oil_spots": 0.526,
+            "plu_stickers": 0.323,
+            "rotten": 0.312,
+            "scars": 0.277,
+            "skin_breakdown": 0.284,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_230825_CLEMENTINE_Encoder_Geens/20250217_1652_000015.npz",
+         "scores": {
+            "green": 0.972,
+            "hollow": 0.266,
+            "insect": 0.261,
+            "oil_spots": 0.913,
+            "plu_stickers": 0.296,
+            "rotten": 0.407,
+            "scars": 0.273,
+            "skin_breakdown": 0.275,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_230825_CLEMENTINE_Encoder_Geens/20250217_1652_000017.npz",
+         "scores": {
+            "green": 0.948,
+            "hollow": 0.247,
+            "insect": 0.257,
+            "oil_spots": 0.31,
+            "plu_stickers": 0.282,
+            "rotten": 0.726,
+            "scars": 0.28,
+            "skin_breakdown": 0.254,
+            "surface": 0.333
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_230825_CLEMENTINE_Encoder_Geens/20250217_1652_000019.npz",
+         "scores": {
+            "green": 1.0,
+            "hollow": 0.277,
+            "insect": 0.27,
+            "oil_spots": 0.407,
+            "plu_stickers": 0.289,
+            "rotten": 0.314,
+            "scars": 0.3,
+            "skin_breakdown": 0.261,
+            "surface": 0.462
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_230825_CLEMENTINE_Encoder_Geens/20250217_1651_000011.npz",
+         "scores": {
+            "green": 0.976,
+            "hollow": 0.25,
+            "insect": 0.27,
+            "oil_spots": 0.486,
+            "plu_stickers": 0.287,
+            "rotten": 0.312,
+            "scars": 0.289,
+            "skin_breakdown": 0.27,
+            "surface": 0.247
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231126_CLEMENTINE_Encoder_Scar/20250217_1713_002045.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.27,
+            "insect": 0.268,
+            "oil_spots": 0.312,
+            "plu_stickers": 0.296,
+            "rotten": 0.312,
+            "scars": 0.583,
+            "skin_breakdown": 0.273,
+            "surface": 0.5
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231126_CLEMENTINE_Encoder_Scar/20250217_1713_002044.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.272,
+            "insect": 0.264,
+            "oil_spots": 0.312,
+            "plu_stickers": 0.293,
+            "rotten": 0.31,
+            "scars": 0.722,
+            "skin_breakdown": 0.287,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231126_CLEMENTINE_Encoder_Scar/20250217_1713_002043.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.264,
+            "insect": 0.264,
+            "oil_spots": 0.617,
+            "plu_stickers": 0.291,
+            "rotten": 0.312,
+            "scars": 0.771,
+            "skin_breakdown": 0.28,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231126_CLEMENTINE_Encoder_Scar/20250217_1713_000055.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.27,
+            "insect": 0.263,
+            "oil_spots": 0.878,
+            "plu_stickers": 0.284,
+            "rotten": 0.583,
+            "scars": 0.666,
+            "skin_breakdown": 0.266,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231126_CLEMENTINE_Encoder_Scar/20250217_1713_000059.npz",
+         "scores": {
+            "green": 0.544,
+            "hollow": 0.261,
+            "insect": 0.263,
+            "oil_spots": 0.324,
+            "plu_stickers": 0.289,
+            "rotten": 0.418,
+            "scars": 0.726,
+            "skin_breakdown": 0.273,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231126_CLEMENTINE_Encoder_Scar/20250217_1713_000057.npz",
+         "scores": {
+            "green": 0.694,
+            "hollow": 0.264,
+            "insect": 0.282,
+            "oil_spots": 0.592,
+            "plu_stickers": 0.293,
+            "rotten": 0.305,
+            "scars": 0.92,
+            "skin_breakdown": 0.277,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231126_CLEMENTINE_Encoder_Scar/20250217_1712_002041.npz",
+         "scores": {
+            "green": 0.317,
+            "hollow": 0.261,
+            "insect": 0.259,
+            "oil_spots": 0.404,
+            "plu_stickers": 0.291,
+            "rotten": 0.358,
+            "scars": 0.573,
+            "skin_breakdown": 0.282,
+            "surface": 0.759
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_230703_CLEMENTINE_Encoder_rot/20250217_1641_002004.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.263,
+            "insect": 0.268,
+            "oil_spots": 0.493,
+            "plu_stickers": 0.287,
+            "rotten": 0.981,
+            "scars": 0.289,
+            "skin_breakdown": 0.289,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_230703_CLEMENTINE_Encoder_rot/20250217_1641_002009.npz",
+         "scores": {
+            "green": 0.273,
+            "hollow": 0.25,
+            "insect": 0.263,
+            "oil_spots": 0.356,
+            "plu_stickers": 0.282,
+            "rotten": 0.967,
+            "scars": 0.312,
+            "skin_breakdown": 0.259,
+            "surface": 0.234
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_230703_CLEMENTINE_Encoder_rot/20250217_1641_000003.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.252,
+            "insect": 0.261,
+            "oil_spots": 0.847,
+            "plu_stickers": 0.286,
+            "rotten": 0.982,
+            "scars": 0.268,
+            "skin_breakdown": 0.252,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_230703_CLEMENTINE_Encoder_rot/20250217_1641_000005.npz",
+         "scores": {
+            "green": 0.244,
+            "hollow": 0.236,
+            "insect": 0.246,
+            "oil_spots": 0.699,
+            "plu_stickers": 0.266,
+            "rotten": 0.986,
+            "scars": 0.342,
+            "skin_breakdown": 0.252,
+            "surface": 0.236
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231323_CLEMENTINE_Encoder_Skin/20250218_1120_000497.npz",
+         "scores": {
+            "green": 0.266,
+            "hollow": 0.272,
+            "insect": 0.275,
+            "oil_spots": 0.739,
+            "plu_stickers": 0.293,
+            "rotten": 0.337,
+            "scars": 0.28,
+            "skin_breakdown": 0.261,
+            "surface": 0.83
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231323_CLEMENTINE_Encoder_Skin/20250218_1121_000510.npz",
+         "scores": {
+            "green": 0.556,
+            "hollow": 0.27,
+            "insect": 0.27,
+            "oil_spots": 0.796,
+            "plu_stickers": 0.287,
+            "rotten": 0.532,
+            "scars": 0.287,
+            "skin_breakdown": 0.266,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231323_CLEMENTINE_Encoder_Skin/20250218_1121_002352.npz",
+         "scores": {
+            "green": 0.902,
+            "hollow": 0.246,
+            "insect": 0.257,
+            "oil_spots": 0.816,
+            "plu_stickers": 0.28,
+            "rotten": 0.414,
+            "scars": 0.277,
+            "skin_breakdown": 0.27,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231323_CLEMENTINE_Encoder_Skin/20250218_1120_000504.npz",
+         "scores": {
+            "green": 0.252,
+            "hollow": 0.259,
+            "insect": 0.272,
+            "oil_spots": 0.575,
+            "plu_stickers": 0.289,
+            "rotten": 0.853,
+            "scars": 0.273,
+            "skin_breakdown": 0.259,
+            "surface": 0.764
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231323_CLEMENTINE_Encoder_Skin/20250218_1120_000496.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.259,
+            "insect": 0.266,
+            "oil_spots": 0.908,
+            "plu_stickers": 0.291,
+            "rotten": 0.522,
+            "scars": 0.272,
+            "skin_breakdown": 0.28,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231323_CLEMENTINE_Encoder_Skin/20250218_1120_000499.npz",
+         "scores": {
+            "green": 0.248,
+            "hollow": 0.252,
+            "insect": 0.263,
+            "oil_spots": 0.694,
+            "plu_stickers": 0.289,
+            "rotten": 0.873,
+            "scars": 0.273,
+            "skin_breakdown": 0.275,
+            "surface": 0.239
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231323_CLEMENTINE_Encoder_Skin/20250218_1120_000498.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.256,
+            "insect": 0.268,
+            "oil_spots": 0.634,
+            "plu_stickers": 0.284,
+            "rotten": 0.324,
+            "scars": 0.277,
+            "skin_breakdown": 0.241,
+            "surface": 0.936
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231323_CLEMENTINE_Encoder_Skin/20250218_1121_000517.npz",
+         "scores": {
+            "green": 0.21,
+            "hollow": 0.187,
+            "insect": 0.184,
+            "oil_spots": 0.363,
+            "plu_stickers": 0.338,
+            "rotten": 0.25,
+            "scars": 0.351,
+            "skin_breakdown": 0.17,
+            "surface": 0.197
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/clementine/KDC/20220803_231323_CLEMENTINE_Encoder_Skin/20250218_1121_000519.npz",
+         "scores": {
+            "green": 0.25,
+            "hollow": 0.24,
+            "insect": 0.257,
+            "oil_spots": 0.544,
+            "plu_stickers": 0.266,
+            "rotten": 0.3,
+            "scars": 0.254,
+            "skin_breakdown": 0.238,
+            "surface": 0.232
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1417_000303.npz",
+         "scores": {
+            "green": 0.257,
+            "hollow": 0.261,
+            "insect": 0.266,
+            "oil_spots": 0.338,
+            "plu_stickers": 0.293,
+            "rotten": 0.432,
+            "scars": 0.328,
+            "skin_breakdown": 0.3,
+            "surface": 0.935
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1239_000126.npz",
+         "scores": {
+            "green": 0.998,
+            "hollow": 0.275,
+            "insect": 0.279,
+            "oil_spots": 0.368,
+            "plu_stickers": 0.296,
+            "rotten": 0.328,
+            "scars": 0.291,
+            "skin_breakdown": 0.333,
+            "surface": 0.354
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0901_000116.npz",
+         "scores": {
+            "green": 0.257,
+            "hollow": 0.488,
+            "insect": 0.273,
+            "oil_spots": 0.488,
+            "plu_stickers": 0.293,
+            "rotten": 0.349,
+            "scars": 0.268,
+            "skin_breakdown": 0.533,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1239_000129.npz",
+         "scores": {
+            "green": 0.99,
+            "hollow": 0.245,
+            "insect": 0.254,
+            "oil_spots": 0.303,
+            "plu_stickers": 0.291,
+            "rotten": 0.556,
+            "scars": 0.342,
+            "skin_breakdown": 0.291,
+            "surface": 0.243
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1325_000239.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.268,
+            "insect": 0.356,
+            "oil_spots": 0.675,
+            "plu_stickers": 0.298,
+            "rotten": 0.495,
+            "scars": 0.319,
+            "skin_breakdown": 0.953,
+            "surface": 0.257
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 1,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1240_000139.npz",
+         "scores": {
+            "green": 0.754,
+            "hollow": 0.275,
+            "insect": 0.27,
+            "oil_spots": 0.515,
+            "plu_stickers": 0.305,
+            "rotten": 0.381,
+            "scars": 0.307,
+            "skin_breakdown": 0.412,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0858_002068.npz",
+         "scores": {
+            "green": 0.252,
+            "hollow": 0.261,
+            "insect": 0.27,
+            "oil_spots": 0.345,
+            "plu_stickers": 0.303,
+            "rotten": 0.566,
+            "scars": 0.287,
+            "skin_breakdown": 0.595,
+            "surface": 0.247
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0856_000047.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.27,
+            "insect": 0.27,
+            "oil_spots": 0.532,
+            "plu_stickers": 0.307,
+            "rotten": 0.732,
+            "scars": 0.293,
+            "skin_breakdown": 0.49,
+            "surface": 0.254
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0852_000010.npz",
+         "scores": {
+            "green": 0.509,
+            "hollow": 0.268,
+            "insect": 0.27,
+            "oil_spots": 0.572,
+            "plu_stickers": 0.301,
+            "rotten": 0.354,
+            "scars": 0.3,
+            "skin_breakdown": 0.291,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0901_000117.npz",
+         "scores": {
+            "green": 0.246,
+            "hollow": 0.27,
+            "insect": 0.266,
+            "oil_spots": 0.555,
+            "plu_stickers": 0.303,
+            "rotten": 0.458,
+            "scars": 0.298,
+            "skin_breakdown": 0.321,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1421_002338.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.241,
+            "insect": 0.388,
+            "oil_spots": 0.333,
+            "plu_stickers": 0.289,
+            "rotten": 0.912,
+            "scars": 0.282,
+            "skin_breakdown": 0.293,
+            "surface": 0.239
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1200_002056.npz",
+         "scores": {
+            "green": 0.361,
+            "hollow": 0.326,
+            "insect": 0.275,
+            "oil_spots": 0.493,
+            "plu_stickers": 0.3,
+            "rotten": 0.351,
+            "scars": 0.284,
+            "skin_breakdown": 0.296,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1317_002208.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.246,
+            "insect": 0.593,
+            "oil_spots": 0.354,
+            "plu_stickers": 0.296,
+            "rotten": 0.957,
+            "scars": 0.296,
+            "skin_breakdown": 0.307,
+            "surface": 0.241
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1241_002167.npz",
+         "scores": {
+            "green": 0.363,
+            "hollow": 0.222,
+            "insect": 0.209,
+            "oil_spots": 0.337,
+            "plu_stickers": 0.277,
+            "rotten": 0.34,
+            "scars": 0.388,
+            "skin_breakdown": 0.268,
+            "surface": 0.234
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1421_000327.npz",
+         "scores": {
+            "green": 0.252,
+            "hollow": 0.263,
+            "insect": 0.5,
+            "oil_spots": 0.333,
+            "plu_stickers": 0.293,
+            "rotten": 0.769,
+            "scars": 0.282,
+            "skin_breakdown": 0.402,
+            "surface": 0.247
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0900_002101.npz",
+         "scores": {
+            "green": 0.474,
+            "hollow": 0.319,
+            "insect": 0.273,
+            "oil_spots": 0.33,
+            "plu_stickers": 0.298,
+            "rotten": 0.407,
+            "scars": 0.28,
+            "skin_breakdown": 0.451,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1421_002341.npz",
+         "scores": {
+            "green": 0.263,
+            "hollow": 0.264,
+            "insect": 0.268,
+            "oil_spots": 0.351,
+            "plu_stickers": 0.293,
+            "rotten": 0.446,
+            "scars": 0.293,
+            "skin_breakdown": 0.382,
+            "surface": 0.245
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0852_000005.npz",
+         "scores": {
+            "green": 0.893,
+            "hollow": 0.275,
+            "insect": 0.279,
+            "oil_spots": 0.531,
+            "plu_stickers": 0.3,
+            "rotten": 0.451,
+            "scars": 0.298,
+            "skin_breakdown": 0.293,
+            "surface": 0.245
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0853_000030.npz",
+         "scores": {
+            "green": 0.902,
+            "hollow": 0.264,
+            "insect": 0.261,
+            "oil_spots": 0.467,
+            "plu_stickers": 0.289,
+            "rotten": 0.488,
+            "scars": 0.28,
+            "skin_breakdown": 0.326,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0901_002114.npz",
+         "scores": {
+            "green": 0.312,
+            "hollow": 0.617,
+            "insect": 0.263,
+            "oil_spots": 0.331,
+            "plu_stickers": 0.291,
+            "rotten": 0.504,
+            "scars": 0.263,
+            "skin_breakdown": 0.289,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1417_002301.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.254,
+            "insect": 0.254,
+            "oil_spots": 0.331,
+            "plu_stickers": 0.289,
+            "rotten": 0.593,
+            "scars": 0.298,
+            "skin_breakdown": 0.34,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1112_000034.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.277,
+            "insect": 0.282,
+            "oil_spots": 0.536,
+            "plu_stickers": 0.298,
+            "rotten": 0.635,
+            "scars": 0.307,
+            "skin_breakdown": 0.289,
+            "surface": 0.256
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1417_000306.npz",
+         "scores": {
+            "green": 0.263,
+            "hollow": 0.27,
+            "insect": 0.27,
+            "oil_spots": 0.444,
+            "plu_stickers": 0.296,
+            "rotten": 0.382,
+            "scars": 0.324,
+            "skin_breakdown": 0.333,
+            "surface": 0.556
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0854_002034.npz",
+         "scores": {
+            "green": 0.552,
+            "hollow": 0.282,
+            "insect": 0.279,
+            "oil_spots": 0.312,
+            "plu_stickers": 0.298,
+            "rotten": 0.307,
+            "scars": 0.298,
+            "skin_breakdown": 0.282,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0859_002094.npz",
+         "scores": {
+            "green": 0.731,
+            "hollow": 0.259,
+            "insect": 0.273,
+            "oil_spots": 0.324,
+            "plu_stickers": 0.298,
+            "rotten": 0.389,
+            "scars": 0.386,
+            "skin_breakdown": 0.286,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1248_002200.npz",
+         "scores": {
+            "green": 0.935,
+            "hollow": 0.374,
+            "insect": 0.397,
+            "oil_spots": 0.958,
+            "plu_stickers": 0.293,
+            "rotten": 0.347,
+            "scars": 0.284,
+            "skin_breakdown": 0.365,
+            "surface": 0.244
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1201_002067.npz",
+         "scores": {
+            "green": 0.981,
+            "hollow": 0.257,
+            "insect": 0.268,
+            "oil_spots": 0.34,
+            "plu_stickers": 0.289,
+            "rotten": 0.748,
+            "scars": 0.395,
+            "skin_breakdown": 0.338,
+            "surface": 0.244
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1200_000048.npz",
+         "scores": {
+            "green": 0.317,
+            "hollow": 0.275,
+            "insect": 0.384,
+            "oil_spots": 0.361,
+            "plu_stickers": 0.3,
+            "rotten": 0.524,
+            "scars": 0.291,
+            "skin_breakdown": 0.472,
+            "surface": 0.254
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0853_000031.npz",
+         "scores": {
+            "green": 0.37,
+            "hollow": 0.27,
+            "insect": 0.275,
+            "oil_spots": 0.333,
+            "plu_stickers": 0.293,
+            "rotten": 0.331,
+            "scars": 0.289,
+            "skin_breakdown": 0.305,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1113_000037.npz",
+         "scores": {
+            "green": 0.275,
+            "hollow": 0.721,
+            "insect": 0.275,
+            "oil_spots": 0.344,
+            "plu_stickers": 0.3,
+            "rotten": 0.354,
+            "scars": 0.289,
+            "skin_breakdown": 0.34,
+            "surface": 0.321
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1325_002281.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.259,
+            "insect": 0.261,
+            "oil_spots": 0.444,
+            "plu_stickers": 0.291,
+            "rotten": 0.441,
+            "scars": 0.3,
+            "skin_breakdown": 0.652,
+            "surface": 0.289
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 1,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1201_002070.npz",
+         "scores": {
+            "green": 0.982,
+            "hollow": 0.273,
+            "insect": 0.273,
+            "oil_spots": 0.351,
+            "plu_stickers": 0.296,
+            "rotten": 0.818,
+            "scars": 0.31,
+            "skin_breakdown": 0.596,
+            "surface": 0.244
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0859_002095.npz",
+         "scores": {
+            "green": 0.552,
+            "hollow": 0.263,
+            "insect": 0.273,
+            "oil_spots": 0.527,
+            "plu_stickers": 0.294,
+            "rotten": 0.361,
+            "scars": 0.293,
+            "skin_breakdown": 0.293,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1113_000035.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.499,
+            "insect": 0.509,
+            "oil_spots": 0.416,
+            "plu_stickers": 0.3,
+            "rotten": 0.37,
+            "scars": 0.323,
+            "skin_breakdown": 0.589,
+            "surface": 0.256
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1112_000038.npz",
+         "scores": {
+            "green": 0.252,
+            "hollow": 0.582,
+            "insect": 0.268,
+            "oil_spots": 0.423,
+            "plu_stickers": 0.3,
+            "rotten": 0.435,
+            "scars": 0.287,
+            "skin_breakdown": 0.47,
+            "surface": 0.254
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1112_002035.npz",
+         "scores": {
+            "green": 0.27,
+            "hollow": 0.675,
+            "insect": 0.261,
+            "oil_spots": 0.458,
+            "plu_stickers": 0.291,
+            "rotten": 0.407,
+            "scars": 0.268,
+            "skin_breakdown": 0.27,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1239_002153.npz",
+         "scores": {
+            "green": 0.518,
+            "hollow": 0.241,
+            "insect": 0.263,
+            "oil_spots": 0.323,
+            "plu_stickers": 0.407,
+            "rotten": 0.395,
+            "scars": 0.483,
+            "skin_breakdown": 0.275,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1416_000273.npz",
+         "scores": {
+            "green": 0.266,
+            "hollow": 0.266,
+            "insect": 0.272,
+            "oil_spots": 0.354,
+            "plu_stickers": 0.301,
+            "rotten": 0.391,
+            "scars": 0.328,
+            "skin_breakdown": 0.391,
+            "surface": 0.967
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1241_000146.npz",
+         "scores": {
+            "green": 0.486,
+            "hollow": 0.247,
+            "insect": 0.266,
+            "oil_spots": 0.324,
+            "plu_stickers": 0.291,
+            "rotten": 0.335,
+            "scars": 0.277,
+            "skin_breakdown": 0.282,
+            "surface": 0.247
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1317_000176.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.256,
+            "insect": 0.354,
+            "oil_spots": 0.34,
+            "plu_stickers": 0.293,
+            "rotten": 0.967,
+            "scars": 0.319,
+            "skin_breakdown": 0.504,
+            "surface": 0.261
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1317_000182.npz",
+         "scores": {
+            "green": 0.282,
+            "hollow": 0.259,
+            "insect": 0.266,
+            "oil_spots": 0.493,
+            "plu_stickers": 0.293,
+            "rotten": 0.726,
+            "scars": 0.268,
+            "skin_breakdown": 0.303,
+            "surface": 0.247
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0857_002054.npz",
+         "scores": {
+            "green": 0.477,
+            "hollow": 0.275,
+            "insect": 0.344,
+            "oil_spots": 0.333,
+            "plu_stickers": 0.298,
+            "rotten": 0.368,
+            "scars": 0.314,
+            "skin_breakdown": 0.293,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0900_000087.npz",
+         "scores": {
+            "green": 0.409,
+            "hollow": 0.268,
+            "insect": 0.275,
+            "oil_spots": 0.328,
+            "plu_stickers": 0.291,
+            "rotten": 0.381,
+            "scars": 0.284,
+            "skin_breakdown": 0.393,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1248_002201.npz",
+         "scores": {
+            "green": 0.477,
+            "hollow": 0.261,
+            "insect": 0.907,
+            "oil_spots": 0.657,
+            "plu_stickers": 0.294,
+            "rotten": 0.316,
+            "scars": 0.284,
+            "skin_breakdown": 0.421,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1417_002304.npz",
+         "scores": {
+            "green": 0.263,
+            "hollow": 0.266,
+            "insect": 0.259,
+            "oil_spots": 0.6,
+            "plu_stickers": 0.293,
+            "rotten": 0.349,
+            "scars": 0.296,
+            "skin_breakdown": 0.303,
+            "surface": 0.984
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1417_002302.npz",
+         "scores": {
+            "green": 0.541,
+            "hollow": 0.266,
+            "insect": 0.268,
+            "oil_spots": 0.393,
+            "plu_stickers": 0.289,
+            "rotten": 0.335,
+            "scars": 0.374,
+            "skin_breakdown": 0.282,
+            "surface": 0.398
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1421_002321.npz",
+         "scores": {
+            "green": 0.786,
+            "hollow": 0.254,
+            "insect": 0.589,
+            "oil_spots": 0.657,
+            "plu_stickers": 0.298,
+            "rotten": 0.532,
+            "scars": 0.286,
+            "skin_breakdown": 0.624,
+            "surface": 0.245
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1320_000192.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.843,
+            "insect": 0.272,
+            "oil_spots": 0.324,
+            "plu_stickers": 0.301,
+            "rotten": 0.556,
+            "scars": 0.317,
+            "skin_breakdown": 0.289,
+            "surface": 0.414
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1321_002249.npz",
+         "scores": {
+            "green": 0.523,
+            "hollow": 0.241,
+            "insect": 0.474,
+            "oil_spots": 0.356,
+            "plu_stickers": 0.284,
+            "rotten": 0.389,
+            "scars": 0.347,
+            "skin_breakdown": 0.331,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1200_002055.npz",
+         "scores": {
+            "green": 0.714,
+            "hollow": 0.261,
+            "insect": 0.277,
+            "oil_spots": 0.419,
+            "plu_stickers": 0.296,
+            "rotten": 0.822,
+            "scars": 0.293,
+            "skin_breakdown": 0.3,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1321_002240.npz",
+         "scores": {
+            "green": 0.252,
+            "hollow": 0.256,
+            "insect": 0.259,
+            "oil_spots": 0.354,
+            "plu_stickers": 0.3,
+            "rotten": 0.382,
+            "scars": 0.575,
+            "skin_breakdown": 0.393,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1240_000142.npz",
+         "scores": {
+            "green": 0.933,
+            "hollow": 0.257,
+            "insect": 0.266,
+            "oil_spots": 0.319,
+            "plu_stickers": 0.298,
+            "rotten": 0.397,
+            "scars": 0.314,
+            "skin_breakdown": 0.293,
+            "surface": 0.254
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0853_000025.npz",
+         "scores": {
+            "green": 0.368,
+            "hollow": 0.247,
+            "insect": 0.256,
+            "oil_spots": 0.351,
+            "plu_stickers": 0.291,
+            "rotten": 0.344,
+            "scars": 0.3,
+            "skin_breakdown": 0.289,
+            "surface": 0.245
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0858_002067.npz",
+         "scores": {
+            "green": 0.87,
+            "hollow": 0.264,
+            "insect": 0.27,
+            "oil_spots": 0.324,
+            "plu_stickers": 0.293,
+            "rotten": 0.317,
+            "scars": 0.284,
+            "skin_breakdown": 0.284,
+            "surface": 0.244
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0853_002010.npz",
+         "scores": {
+            "green": 0.569,
+            "hollow": 0.273,
+            "insect": 0.273,
+            "oil_spots": 0.409,
+            "plu_stickers": 0.298,
+            "rotten": 0.342,
+            "scars": 0.3,
+            "skin_breakdown": 0.294,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0857_000052.npz",
+         "scores": {
+            "green": 0.349,
+            "hollow": 0.273,
+            "insect": 0.272,
+            "oil_spots": 0.388,
+            "plu_stickers": 0.291,
+            "rotten": 0.368,
+            "scars": 0.282,
+            "skin_breakdown": 0.305,
+            "surface": 0.245
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1112_000031.npz",
+         "scores": {
+            "green": 0.294,
+            "hollow": 0.681,
+            "insect": 0.291,
+            "oil_spots": 0.379,
+            "plu_stickers": 0.291,
+            "rotten": 0.409,
+            "scars": 0.28,
+            "skin_breakdown": 0.31,
+            "surface": 0.247
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0859_000075.npz",
+         "scores": {
+            "green": 0.797,
+            "hollow": 0.287,
+            "insect": 0.277,
+            "oil_spots": 0.476,
+            "plu_stickers": 0.296,
+            "rotten": 0.442,
+            "scars": 0.293,
+            "skin_breakdown": 0.287,
+            "surface": 0.254
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1112_000033.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.944,
+            "insect": 0.27,
+            "oil_spots": 0.337,
+            "plu_stickers": 0.289,
+            "rotten": 0.441,
+            "scars": 0.275,
+            "skin_breakdown": 0.368,
+            "surface": 0.245
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0900_000097.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.393,
+            "insect": 0.272,
+            "oil_spots": 0.532,
+            "plu_stickers": 0.293,
+            "rotten": 0.384,
+            "scars": 0.286,
+            "skin_breakdown": 0.467,
+            "surface": 0.361
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1247_000162.npz",
+         "scores": {
+            "green": 0.46,
+            "hollow": 0.259,
+            "insect": 0.266,
+            "oil_spots": 0.971,
+            "plu_stickers": 0.293,
+            "rotten": 0.472,
+            "scars": 0.291,
+            "skin_breakdown": 0.483,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1112_002032.npz",
+         "scores": {
+            "green": 0.361,
+            "hollow": 0.449,
+            "insect": 0.268,
+            "oil_spots": 0.321,
+            "plu_stickers": 0.294,
+            "rotten": 0.409,
+            "scars": 0.287,
+            "skin_breakdown": 0.291,
+            "surface": 0.247
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0900_000094.npz",
+         "scores": {
+            "green": 0.252,
+            "hollow": 0.282,
+            "insect": 0.268,
+            "oil_spots": 0.465,
+            "plu_stickers": 0.291,
+            "rotten": 0.381,
+            "scars": 0.282,
+            "skin_breakdown": 0.513,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1417_000293.npz",
+         "scores": {
+            "green": 0.263,
+            "hollow": 0.277,
+            "insect": 0.272,
+            "oil_spots": 0.49,
+            "plu_stickers": 0.293,
+            "rotten": 0.388,
+            "scars": 0.303,
+            "skin_breakdown": 0.3,
+            "surface": 0.86
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1245_002178.npz",
+         "scores": {
+            "green": 0.913,
+            "hollow": 0.261,
+            "insect": 0.393,
+            "oil_spots": 0.384,
+            "plu_stickers": 0.293,
+            "rotten": 0.602,
+            "scars": 0.293,
+            "skin_breakdown": 0.296,
+            "surface": 0.268
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 1,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1247_000160.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.273,
+            "insect": 0.272,
+            "oil_spots": 0.435,
+            "plu_stickers": 0.298,
+            "rotten": 0.395,
+            "scars": 0.317,
+            "skin_breakdown": 0.652,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1200_002058.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.515,
+            "insect": 0.407,
+            "oil_spots": 0.344,
+            "plu_stickers": 0.298,
+            "rotten": 0.623,
+            "scars": 0.289,
+            "skin_breakdown": 0.474,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0858_000069.npz",
+         "scores": {
+            "green": 0.614,
+            "hollow": 0.259,
+            "insect": 0.275,
+            "oil_spots": 0.488,
+            "plu_stickers": 0.291,
+            "rotten": 0.402,
+            "scars": 0.296,
+            "skin_breakdown": 0.388,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0858_002072.npz",
+         "scores": {
+            "green": 0.252,
+            "hollow": 0.273,
+            "insect": 0.256,
+            "oil_spots": 0.342,
+            "plu_stickers": 0.282,
+            "rotten": 0.331,
+            "scars": 0.268,
+            "skin_breakdown": 0.28,
+            "surface": 0.239
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1325_000241.npz",
+         "scores": {
+            "green": 0.647,
+            "hollow": 0.246,
+            "insect": 0.578,
+            "oil_spots": 0.363,
+            "plu_stickers": 0.293,
+            "rotten": 0.536,
+            "scars": 0.296,
+            "skin_breakdown": 0.499,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 1,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1325_000236.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.264,
+            "insect": 0.555,
+            "oil_spots": 0.674,
+            "plu_stickers": 0.296,
+            "rotten": 0.368,
+            "scars": 0.344,
+            "skin_breakdown": 0.927,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 1,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1112_000030.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.804,
+            "insect": 0.268,
+            "oil_spots": 0.324,
+            "plu_stickers": 0.291,
+            "rotten": 0.386,
+            "scars": 0.289,
+            "skin_breakdown": 0.446,
+            "surface": 0.254
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1239_000119.npz",
+         "scores": {
+            "green": 0.995,
+            "hollow": 0.27,
+            "insect": 0.273,
+            "oil_spots": 0.426,
+            "plu_stickers": 0.296,
+            "rotten": 0.344,
+            "scars": 0.361,
+            "skin_breakdown": 0.358,
+            "surface": 0.244
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1200_002053.npz",
+         "scores": {
+            "green": 0.291,
+            "hollow": 0.397,
+            "insect": 0.273,
+            "oil_spots": 0.351,
+            "plu_stickers": 0.296,
+            "rotten": 0.801,
+            "scars": 0.287,
+            "skin_breakdown": 0.287,
+            "surface": 0.254
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1321_000222.npz",
+         "scores": {
+            "green": 0.246,
+            "hollow": 0.263,
+            "insect": 0.254,
+            "oil_spots": 0.307,
+            "plu_stickers": 0.307,
+            "rotten": 0.328,
+            "scars": 0.446,
+            "skin_breakdown": 0.273,
+            "surface": 0.317
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1112_002041.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.272,
+            "insect": 0.279,
+            "oil_spots": 0.433,
+            "plu_stickers": 0.3,
+            "rotten": 0.607,
+            "scars": 0.296,
+            "skin_breakdown": 0.307,
+            "surface": 0.245
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1325_000244.npz",
+         "scores": {
+            "green": 0.25,
+            "hollow": 0.257,
+            "insect": 0.273,
+            "oil_spots": 0.449,
+            "plu_stickers": 0.282,
+            "rotten": 0.358,
+            "scars": 0.273,
+            "skin_breakdown": 0.365,
+            "surface": 0.238
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 1,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1324_000230.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.275,
+            "insect": 0.508,
+            "oil_spots": 0.552,
+            "plu_stickers": 0.296,
+            "rotten": 0.507,
+            "scars": 0.298,
+            "skin_breakdown": 0.617,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 1,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0854_002032.npz",
+         "scores": {
+            "green": 0.319,
+            "hollow": 0.261,
+            "insect": 0.272,
+            "oil_spots": 0.342,
+            "plu_stickers": 0.291,
+            "rotten": 0.365,
+            "scars": 0.287,
+            "skin_breakdown": 0.286,
+            "surface": 0.245
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1317_000181.npz",
+         "scores": {
+            "green": 0.247,
+            "hollow": 0.217,
+            "insect": 0.241,
+            "oil_spots": 0.34,
+            "plu_stickers": 0.273,
+            "rotten": 0.474,
+            "scars": 0.402,
+            "skin_breakdown": 0.266,
+            "surface": 0.237
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1248_000168.npz",
+         "scores": {
+            "green": 0.811,
+            "hollow": 0.264,
+            "insect": 0.277,
+            "oil_spots": 0.458,
+            "plu_stickers": 0.298,
+            "rotten": 0.662,
+            "scars": 0.411,
+            "skin_breakdown": 0.4,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0857_000051.npz",
+         "scores": {
+            "green": 0.263,
+            "hollow": 0.275,
+            "insect": 0.275,
+            "oil_spots": 0.509,
+            "plu_stickers": 0.298,
+            "rotten": 0.361,
+            "scars": 0.307,
+            "skin_breakdown": 0.382,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1321_002244.npz",
+         "scores": {
+            "green": 0.637,
+            "hollow": 0.256,
+            "insect": 0.263,
+            "oil_spots": 0.331,
+            "plu_stickers": 0.296,
+            "rotten": 0.564,
+            "scars": 0.289,
+            "skin_breakdown": 0.493,
+            "surface": 0.391
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0901_002133.npz",
+         "scores": {
+            "green": 0.616,
+            "hollow": 0.275,
+            "insect": 0.27,
+            "oil_spots": 0.308,
+            "plu_stickers": 0.293,
+            "rotten": 0.319,
+            "scars": 0.282,
+            "skin_breakdown": 0.287,
+            "surface": 0.254
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1248_002205.npz",
+         "scores": {
+            "green": 0.425,
+            "hollow": 0.266,
+            "insect": 0.264,
+            "oil_spots": 0.792,
+            "plu_stickers": 0.291,
+            "rotten": 0.625,
+            "scars": 0.287,
+            "skin_breakdown": 0.328,
+            "surface": 0.247
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0900_002109.npz",
+         "scores": {
+            "green": 0.651,
+            "hollow": 0.256,
+            "insect": 0.268,
+            "oil_spots": 0.314,
+            "plu_stickers": 0.291,
+            "rotten": 0.513,
+            "scars": 0.277,
+            "skin_breakdown": 0.298,
+            "surface": 0.256
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1320_002224.npz",
+         "scores": {
+            "green": 0.999,
+            "hollow": 0.25,
+            "insect": 0.263,
+            "oil_spots": 0.337,
+            "plu_stickers": 0.291,
+            "rotten": 0.388,
+            "scars": 0.379,
+            "skin_breakdown": 0.296,
+            "surface": 0.247
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1321_002239.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.247,
+            "insect": 0.257,
+            "oil_spots": 0.418,
+            "plu_stickers": 0.291,
+            "rotten": 0.389,
+            "scars": 0.458,
+            "skin_breakdown": 0.298,
+            "surface": 0.611
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1201_002071.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.435,
+            "insect": 0.273,
+            "oil_spots": 0.354,
+            "plu_stickers": 0.296,
+            "rotten": 0.634,
+            "scars": 0.287,
+            "skin_breakdown": 0.342,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1325_000246.npz",
+         "scores": {
+            "green": 0.25,
+            "hollow": 0.25,
+            "insect": 0.264,
+            "oil_spots": 0.428,
+            "plu_stickers": 0.284,
+            "rotten": 0.377,
+            "scars": 0.284,
+            "skin_breakdown": 0.902,
+            "surface": 0.243
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 1,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1321_002246.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.252,
+            "insect": 0.418,
+            "oil_spots": 0.388,
+            "plu_stickers": 0.291,
+            "rotten": 0.418,
+            "scars": 0.296,
+            "skin_breakdown": 0.363,
+            "surface": 0.236
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0857_000055.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.386,
+            "insect": 0.578,
+            "oil_spots": 0.467,
+            "plu_stickers": 0.3,
+            "rotten": 0.386,
+            "scars": 0.287,
+            "skin_breakdown": 0.495,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0859_002091.npz",
+         "scores": {
+            "green": 0.966,
+            "hollow": 0.287,
+            "insect": 0.275,
+            "oil_spots": 0.316,
+            "plu_stickers": 0.298,
+            "rotten": 0.326,
+            "scars": 0.294,
+            "skin_breakdown": 0.296,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0857_002056.npz",
+         "scores": {
+            "green": 0.941,
+            "hollow": 0.263,
+            "insect": 0.268,
+            "oil_spots": 0.316,
+            "plu_stickers": 0.3,
+            "rotten": 0.483,
+            "scars": 0.287,
+            "skin_breakdown": 0.289,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1321_000217.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.261,
+            "insect": 0.272,
+            "oil_spots": 0.46,
+            "plu_stickers": 0.3,
+            "rotten": 0.541,
+            "scars": 0.693,
+            "skin_breakdown": 0.331,
+            "surface": 0.245
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1239_000124.npz",
+         "scores": {
+            "green": 0.865,
+            "hollow": 0.263,
+            "insect": 0.282,
+            "oil_spots": 0.324,
+            "plu_stickers": 0.305,
+            "rotten": 0.446,
+            "scars": 0.3,
+            "skin_breakdown": 0.312,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0854_002033.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.273,
+            "insect": 0.27,
+            "oil_spots": 0.524,
+            "plu_stickers": 0.294,
+            "rotten": 0.335,
+            "scars": 0.293,
+            "skin_breakdown": 0.3,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1201_002062.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.296,
+            "insect": 0.272,
+            "oil_spots": 0.531,
+            "plu_stickers": 0.296,
+            "rotten": 0.421,
+            "scars": 0.321,
+            "skin_breakdown": 0.331,
+            "surface": 0.493
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1321_002245.npz",
+         "scores": {
+            "green": 0.476,
+            "hollow": 0.252,
+            "insect": 0.273,
+            "oil_spots": 0.317,
+            "plu_stickers": 0.298,
+            "rotten": 0.31,
+            "scars": 0.282,
+            "skin_breakdown": 0.289,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1245_002191.npz",
+         "scores": {
+            "green": 0.416,
+            "hollow": 0.266,
+            "insect": 0.268,
+            "oil_spots": 0.314,
+            "plu_stickers": 0.293,
+            "rotten": 0.589,
+            "scars": 0.282,
+            "skin_breakdown": 0.326,
+            "surface": 0.256
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 1,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1240_002151.npz",
+         "scores": {
+            "green": 0.995,
+            "hollow": 0.259,
+            "insect": 0.587,
+            "oil_spots": 0.319,
+            "plu_stickers": 0.293,
+            "rotten": 0.305,
+            "scars": 0.289,
+            "skin_breakdown": 0.303,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0901_000122.npz",
+         "scores": {
+            "green": 0.564,
+            "hollow": 0.263,
+            "insect": 0.259,
+            "oil_spots": 0.344,
+            "plu_stickers": 0.289,
+            "rotten": 0.418,
+            "scars": 0.277,
+            "skin_breakdown": 0.375,
+            "surface": 0.241
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1112_000029.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.488,
+            "insect": 0.266,
+            "oil_spots": 0.639,
+            "plu_stickers": 0.296,
+            "rotten": 0.652,
+            "scars": 0.31,
+            "skin_breakdown": 0.569,
+            "surface": 0.243
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1245_002182.npz",
+         "scores": {
+            "green": 0.972,
+            "hollow": 0.275,
+            "insect": 0.272,
+            "oil_spots": 0.379,
+            "plu_stickers": 0.3,
+            "rotten": 0.602,
+            "scars": 0.289,
+            "skin_breakdown": 0.449,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 1,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1241_002162.npz",
+         "scores": {
+            "green": 0.833,
+            "hollow": 0.218,
+            "insect": 0.246,
+            "oil_spots": 0.324,
+            "plu_stickers": 0.284,
+            "rotten": 0.363,
+            "scars": 0.284,
+            "skin_breakdown": 0.257,
+            "surface": 0.241
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1321_002232.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.264,
+            "insect": 0.27,
+            "oil_spots": 0.386,
+            "plu_stickers": 0.296,
+            "rotten": 0.441,
+            "scars": 0.379,
+            "skin_breakdown": 0.377,
+            "surface": 0.811
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1245_002193.npz",
+         "scores": {
+            "green": 0.266,
+            "hollow": 0.247,
+            "insect": 0.944,
+            "oil_spots": 0.331,
+            "plu_stickers": 0.287,
+            "rotten": 0.614,
+            "scars": 0.289,
+            "skin_breakdown": 0.317,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 1,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0901_002150.npz",
+         "scores": {
+            "green": 0.476,
+            "hollow": 0.312,
+            "insect": 0.264,
+            "oil_spots": 0.314,
+            "plu_stickers": 0.291,
+            "rotten": 0.331,
+            "scars": 0.268,
+            "skin_breakdown": 0.294,
+            "surface": 0.24
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0900_002110.npz",
+         "scores": {
+            "green": 0.865,
+            "hollow": 0.259,
+            "insect": 0.268,
+            "oil_spots": 0.324,
+            "plu_stickers": 0.293,
+            "rotten": 0.595,
+            "scars": 0.287,
+            "skin_breakdown": 0.289,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0900_002102.npz",
+         "scores": {
+            "green": 0.314,
+            "hollow": 0.418,
+            "insect": 0.275,
+            "oil_spots": 0.377,
+            "plu_stickers": 0.301,
+            "rotten": 0.518,
+            "scars": 0.294,
+            "skin_breakdown": 0.363,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0900_000093.npz",
+         "scores": {
+            "green": 0.354,
+            "hollow": 0.259,
+            "insect": 0.259,
+            "oil_spots": 0.508,
+            "plu_stickers": 0.293,
+            "rotten": 0.725,
+            "scars": 0.282,
+            "skin_breakdown": 0.453,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1112_000032.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.335,
+            "insect": 0.63,
+            "oil_spots": 0.342,
+            "plu_stickers": 0.298,
+            "rotten": 0.404,
+            "scars": 0.284,
+            "skin_breakdown": 0.368,
+            "surface": 0.316
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0852_000001.npz",
+         "scores": {
+            "green": 0.519,
+            "hollow": 0.361,
+            "insect": 0.27,
+            "oil_spots": 0.689,
+            "plu_stickers": 0.307,
+            "rotten": 0.527,
+            "scars": 0.298,
+            "skin_breakdown": 0.374,
+            "surface": 0.257
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1112_000036.npz",
+         "scores": {
+            "green": 0.257,
+            "hollow": 0.658,
+            "insect": 0.27,
+            "oil_spots": 0.344,
+            "plu_stickers": 0.296,
+            "rotten": 0.402,
+            "scars": 0.277,
+            "skin_breakdown": 0.293,
+            "surface": 0.259
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1320_000194.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.257,
+            "insect": 0.264,
+            "oil_spots": 0.337,
+            "plu_stickers": 0.303,
+            "rotten": 0.449,
+            "scars": 0.485,
+            "skin_breakdown": 0.685,
+            "surface": 0.944
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1200_000045.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.259,
+            "insect": 0.261,
+            "oil_spots": 0.481,
+            "plu_stickers": 0.293,
+            "rotten": 0.772,
+            "scars": 0.314,
+            "skin_breakdown": 0.446,
+            "surface": 0.644
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1239_002146.npz",
+         "scores": {
+            "green": 0.67,
+            "hollow": 0.31,
+            "insect": 0.282,
+            "oil_spots": 0.312,
+            "plu_stickers": 0.296,
+            "rotten": 0.449,
+            "scars": 0.3,
+            "skin_breakdown": 0.289,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1240_000141.npz",
+         "scores": {
+            "green": 0.99,
+            "hollow": 0.244,
+            "insect": 0.275,
+            "oil_spots": 0.293,
+            "plu_stickers": 0.293,
+            "rotten": 0.356,
+            "scars": 0.289,
+            "skin_breakdown": 0.361,
+            "surface": 0.247
+         },
+         "ground_truth": {
+            "green": 1,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250220_1321_000207.npz",
+         "scores": {
+            "green": 0.354,
+            "hollow": 0.263,
+            "insect": 0.268,
+            "oil_spots": 0.379,
+            "plu_stickers": 0.293,
+            "rotten": 0.597,
+            "scars": 0.294,
+            "skin_breakdown": 0.305,
+            "surface": 0.243
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0858_002064.npz",
+         "scores": {
+            "green": 0.458,
+            "hollow": 0.296,
+            "insect": 0.291,
+            "oil_spots": 0.607,
+            "plu_stickers": 0.296,
+            "rotten": 0.381,
+            "scars": 0.284,
+            "skin_breakdown": 0.412,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/nardocot/manfredi/20250224_0854_000038.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.25,
+            "insect": 0.259,
+            "oil_spots": 0.462,
+            "plu_stickers": 0.275,
+            "rotten": 0.529,
+            "scars": 0.28,
+            "skin_breakdown": 0.291,
+            "surface": 0.233
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220804_230331_TANGO_encoder_Scar/20250218_1016_000397.npz",
+         "scores": {
+            "green": 0.481,
+            "hollow": 0.243,
+            "insect": 0.257,
+            "oil_spots": 0.321,
+            "plu_stickers": 0.287,
+            "rotten": 0.349,
+            "scars": 0.693,
+            "skin_breakdown": 0.257,
+            "surface": 0.243
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220804_230331_TANGO_encoder_Scar/20250218_1016_000398.npz",
+         "scores": {
+            "green": 0.523,
+            "hollow": 0.261,
+            "insect": 0.268,
+            "oil_spots": 0.323,
+            "plu_stickers": 0.293,
+            "rotten": 0.333,
+            "scars": 0.643,
+            "skin_breakdown": 0.277,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220806_185520_tango_ENCODER_MANCHAS/20250218_0857_000180.npz",
+         "scores": {
+            "green": 0.263,
+            "hollow": 0.252,
+            "insect": 0.259,
+            "oil_spots": 0.321,
+            "plu_stickers": 0.286,
+            "rotten": 0.3,
+            "scars": 0.31,
+            "skin_breakdown": 0.268,
+            "surface": 0.247
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220806_185520_tango_ENCODER_MANCHAS/20250218_0858_000188.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.234,
+            "insect": 0.24,
+            "oil_spots": 0.298,
+            "plu_stickers": 0.268,
+            "rotten": 0.27,
+            "scars": 0.261,
+            "skin_breakdown": 0.218,
+            "surface": 0.229
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220806_185520_tango_ENCODER_MANCHAS/20250218_0858_000187.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.259,
+            "insect": 0.261,
+            "oil_spots": 0.328,
+            "plu_stickers": 0.287,
+            "rotten": 0.303,
+            "scars": 0.287,
+            "skin_breakdown": 0.263,
+            "surface": 0.337
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220806_185520_tango_ENCODER_MANCHAS/20250218_0858_000185.npz",
+         "scores": {
+            "green": 0.257,
+            "hollow": 0.261,
+            "insect": 0.264,
+            "oil_spots": 0.319,
+            "plu_stickers": 0.28,
+            "rotten": 0.303,
+            "scars": 0.287,
+            "skin_breakdown": 0.243,
+            "surface": 0.237
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220805_225459_tango_ENCODER_scars/20250218_0911_000279.npz",
+         "scores": {
+            "green": 0.755,
+            "hollow": 0.264,
+            "insect": 0.286,
+            "oil_spots": 0.662,
+            "plu_stickers": 0.3,
+            "rotten": 0.308,
+            "scars": 0.578,
+            "skin_breakdown": 0.268,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220805_225459_tango_ENCODER_scars/20250218_0911_000277.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.266,
+            "insect": 0.27,
+            "oil_spots": 0.321,
+            "plu_stickers": 0.291,
+            "rotten": 0.308,
+            "scars": 0.606,
+            "skin_breakdown": 0.264,
+            "surface": 0.291
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 1,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220804_230730_TANGO_encoder_good/20250218_1039_000411.npz",
+         "scores": {
+            "green": 0.412,
+            "hollow": 0.247,
+            "insect": 0.257,
+            "oil_spots": 0.319,
+            "plu_stickers": 0.293,
+            "rotten": 0.335,
+            "scars": 0.587,
+            "skin_breakdown": 0.277,
+            "surface": 0.495
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220804_230730_TANGO_encoder_good/20250218_1038_000404.npz",
+         "scores": {
+            "green": 0.263,
+            "hollow": 0.266,
+            "insect": 0.263,
+            "oil_spots": 0.326,
+            "plu_stickers": 0.287,
+            "rotten": 0.312,
+            "scars": 0.333,
+            "skin_breakdown": 0.27,
+            "surface": 0.275
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220804_230730_TANGO_encoder_good/20250218_1038_000405.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.261,
+            "insect": 0.266,
+            "oil_spots": 0.33,
+            "plu_stickers": 0.293,
+            "rotten": 0.31,
+            "scars": 0.282,
+            "skin_breakdown": 0.266,
+            "surface": 0.395
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220804_230730_TANGO_encoder_good/20250218_1039_002269.npz",
+         "scores": {
+            "green": 0.266,
+            "hollow": 0.272,
+            "insect": 0.263,
+            "oil_spots": 0.405,
+            "plu_stickers": 0.296,
+            "rotten": 0.331,
+            "scars": 0.377,
+            "skin_breakdown": 0.291,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220804_230730_TANGO_encoder_good/20250218_1039_002265.npz",
+         "scores": {
+            "green": 0.612,
+            "hollow": 0.277,
+            "insect": 0.263,
+            "oil_spots": 0.4,
+            "plu_stickers": 0.287,
+            "rotten": 0.305,
+            "scars": 0.43,
+            "skin_breakdown": 0.275,
+            "surface": 0.298
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220804_230730_TANGO_encoder_good/20250218_1038_002261.npz",
+         "scores": {
+            "green": 0.321,
+            "hollow": 0.27,
+            "insect": 0.259,
+            "oil_spots": 0.347,
+            "plu_stickers": 0.296,
+            "rotten": 0.326,
+            "scars": 0.368,
+            "skin_breakdown": 0.266,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220804_230522_TANGO_encoder_SkinDamage/20250218_0954_000297.npz",
+         "scores": {
+            "green": 0.922,
+            "hollow": 0.268,
+            "insect": 0.268,
+            "oil_spots": 0.587,
+            "plu_stickers": 0.296,
+            "rotten": 0.437,
+            "scars": 0.486,
+            "skin_breakdown": 0.268,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220804_230522_TANGO_encoder_SkinDamage/20250218_0954_002188.npz",
+         "scores": {
+            "green": 0.54,
+            "hollow": 0.268,
+            "insect": 0.263,
+            "oil_spots": 0.852,
+            "plu_stickers": 0.294,
+            "rotten": 0.333,
+            "scars": 0.393,
+            "skin_breakdown": 0.284,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220806_185859_tango_ENCODER_ROTAS/20250218_1000_000337.npz",
+         "scores": {
+            "green": 0.247,
+            "hollow": 0.245,
+            "insect": 0.252,
+            "oil_spots": 0.28,
+            "plu_stickers": 0.277,
+            "rotten": 0.657,
+            "scars": 0.296,
+            "skin_breakdown": 0.256,
+            "surface": 0.379
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220806_185859_tango_ENCODER_ROTAS/20250218_0959_002213.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.275,
+            "insect": 0.263,
+            "oil_spots": 0.335,
+            "plu_stickers": 0.296,
+            "rotten": 0.514,
+            "scars": 0.446,
+            "skin_breakdown": 0.284,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220806_185859_tango_ENCODER_ROTAS/20250218_1000_000338.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.275,
+            "insect": 0.259,
+            "oil_spots": 0.333,
+            "plu_stickers": 0.294,
+            "rotten": 0.633,
+            "scars": 0.662,
+            "skin_breakdown": 0.28,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220806_185859_tango_ENCODER_ROTAS/20250218_1000_002218.npz",
+         "scores": {
+            "green": 0.7,
+            "hollow": 0.252,
+            "insect": 0.246,
+            "oil_spots": 0.418,
+            "plu_stickers": 0.286,
+            "rotten": 0.651,
+            "scars": 0.504,
+            "skin_breakdown": 0.291,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220804_230235_TANGO_encoder_Surface/20250218_0921_002179.npz",
+         "scores": {
+            "green": 0.749,
+            "hollow": 0.259,
+            "insect": 0.264,
+            "oil_spots": 0.512,
+            "plu_stickers": 0.3,
+            "rotten": 0.791,
+            "scars": 0.277,
+            "skin_breakdown": 0.28,
+            "surface": 0.879
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220804_230235_TANGO_encoder_Surface/20250218_0921_002181.npz",
+         "scores": {
+            "green": 0.264,
+            "hollow": 0.256,
+            "insect": 0.259,
+            "oil_spots": 0.305,
+            "plu_stickers": 0.284,
+            "rotten": 0.389,
+            "scars": 0.676,
+            "skin_breakdown": 0.272,
+            "surface": 0.601
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220804_230235_TANGO_encoder_Surface/20250218_0921_002180.npz",
+         "scores": {
+            "green": 0.279,
+            "hollow": 0.25,
+            "insect": 0.254,
+            "oil_spots": 0.333,
+            "plu_stickers": 0.287,
+            "rotten": 0.344,
+            "scars": 0.398,
+            "skin_breakdown": 0.261,
+            "surface": 0.873
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220805_231606_TANGO_ENCODER_surface/20250218_1106_000445.npz",
+         "scores": {
+            "green": 0.294,
+            "hollow": 0.252,
+            "insect": 0.256,
+            "oil_spots": 0.333,
+            "plu_stickers": 0.286,
+            "rotten": 0.331,
+            "scars": 0.289,
+            "skin_breakdown": 0.257,
+            "surface": 0.395
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/mandarins/tango/KDC/20220805_231606_TANGO_ENCODER_surface/20250218_1106_002305.npz",
+         "scores": {
+            "green": 0.284,
+            "hollow": 0.256,
+            "insect": 0.263,
+            "oil_spots": 0.377,
+            "plu_stickers": 0.293,
+            "rotten": 0.758,
+            "scars": 0.31,
+            "skin_breakdown": 0.266,
+            "surface": 0.81
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 1
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0948_002212.npz",
+         "scores": {
+            "green": 0.421,
+            "hollow": 0.788,
+            "insect": 0.268,
+            "oil_spots": 0.28,
+            "plu_stickers": 0.287,
+            "rotten": 0.354,
+            "scars": 0.263,
+            "skin_breakdown": 0.277,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0906_002158.npz",
+         "scores": {
+            "green": 0.587,
+            "hollow": 0.409,
+            "insect": 0.428,
+            "oil_spots": 0.308,
+            "plu_stickers": 0.298,
+            "rotten": 0.361,
+            "scars": 0.277,
+            "skin_breakdown": 0.333,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0916_002175.npz",
+         "scores": {
+            "green": 0.522,
+            "hollow": 0.559,
+            "insect": 0.263,
+            "oil_spots": 0.287,
+            "plu_stickers": 0.294,
+            "rotten": 0.483,
+            "scars": 0.266,
+            "skin_breakdown": 0.275,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0949_002218.npz",
+         "scores": {
+            "green": 0.25,
+            "hollow": 0.552,
+            "insect": 0.268,
+            "oil_spots": 0.293,
+            "plu_stickers": 0.28,
+            "rotten": 0.503,
+            "scars": 0.268,
+            "skin_breakdown": 0.268,
+            "surface": 0.238
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0916_000140.npz",
+         "scores": {
+            "green": 0.284,
+            "hollow": 0.335,
+            "insect": 0.81,
+            "oil_spots": 0.37,
+            "plu_stickers": 0.291,
+            "rotten": 0.418,
+            "scars": 0.28,
+            "skin_breakdown": 0.402,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0917_000149.npz",
+         "scores": {
+            "green": 0.531,
+            "hollow": 0.248,
+            "insect": 0.911,
+            "oil_spots": 0.31,
+            "plu_stickers": 0.291,
+            "rotten": 0.305,
+            "scars": 0.268,
+            "skin_breakdown": 0.37,
+            "surface": 0.241
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0948_000240.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.287,
+            "insect": 0.855,
+            "oil_spots": 0.352,
+            "plu_stickers": 0.291,
+            "rotten": 0.736,
+            "scars": 0.291,
+            "skin_breakdown": 0.321,
+            "surface": 0.321
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_1317_002223.npz",
+         "scores": {
+            "green": 0.476,
+            "hollow": 0.27,
+            "insect": 0.358,
+            "oil_spots": 0.361,
+            "plu_stickers": 0.293,
+            "rotten": 0.382,
+            "scars": 0.273,
+            "skin_breakdown": 0.8,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 1,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0910_000132.npz",
+         "scores": {
+            "green": 0.437,
+            "hollow": 0.656,
+            "insect": 0.266,
+            "oil_spots": 0.319,
+            "plu_stickers": 0.3,
+            "rotten": 0.486,
+            "scars": 0.27,
+            "skin_breakdown": 0.31,
+            "surface": 0.254
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_1413_000277.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.263,
+            "insect": 0.949,
+            "oil_spots": 0.493,
+            "plu_stickers": 0.289,
+            "rotten": 0.361,
+            "scars": 0.4,
+            "skin_breakdown": 0.474,
+            "surface": 0.257
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 1,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0906_002156.npz",
+         "scores": {
+            "green": 0.298,
+            "hollow": 0.857,
+            "insect": 0.624,
+            "oil_spots": 0.303,
+            "plu_stickers": 0.284,
+            "rotten": 0.566,
+            "scars": 0.246,
+            "skin_breakdown": 0.432,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0949_000248.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.533,
+            "insect": 0.263,
+            "oil_spots": 0.344,
+            "plu_stickers": 0.287,
+            "rotten": 0.47,
+            "scars": 0.268,
+            "skin_breakdown": 0.611,
+            "surface": 0.243
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_1414_000285.npz",
+         "scores": {
+            "green": 0.456,
+            "hollow": 0.301,
+            "insect": 0.351,
+            "oil_spots": 0.375,
+            "plu_stickers": 0.303,
+            "rotten": 0.374,
+            "scars": 0.28,
+            "skin_breakdown": 0.654,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 1,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0949_002213.npz",
+         "scores": {
+            "green": 0.272,
+            "hollow": 0.791,
+            "insect": 0.504,
+            "oil_spots": 0.3,
+            "plu_stickers": 0.286,
+            "rotten": 0.388,
+            "scars": 0.254,
+            "skin_breakdown": 0.308,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0916_002173.npz",
+         "scores": {
+            "green": 0.319,
+            "hollow": 0.753,
+            "insect": 0.261,
+            "oil_spots": 0.479,
+            "plu_stickers": 0.282,
+            "rotten": 0.361,
+            "scars": 0.261,
+            "skin_breakdown": 0.541,
+            "surface": 0.244
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0910_000137.npz",
+         "scores": {
+            "green": 0.264,
+            "hollow": 0.451,
+            "insect": 0.266,
+            "oil_spots": 0.312,
+            "plu_stickers": 0.296,
+            "rotten": 0.317,
+            "scars": 0.261,
+            "skin_breakdown": 0.268,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 1,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0906_002153.npz",
+         "scores": {
+            "green": 0.352,
+            "hollow": 0.931,
+            "insect": 0.347,
+            "oil_spots": 0.307,
+            "plu_stickers": 0.28,
+            "rotten": 0.764,
+            "scars": 0.263,
+            "skin_breakdown": 0.277,
+            "surface": 0.24
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_1413_000274.npz",
+         "scores": {
+            "green": 0.414,
+            "hollow": 0.685,
+            "insect": 0.259,
+            "oil_spots": 0.586,
+            "plu_stickers": 0.287,
+            "rotten": 0.526,
+            "scars": 0.261,
+            "skin_breakdown": 0.605,
+            "surface": 0.244
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 1,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_1413_000275.npz",
+         "scores": {
+            "green": 0.266,
+            "hollow": 0.273,
+            "insect": 0.674,
+            "oil_spots": 0.583,
+            "plu_stickers": 0.298,
+            "rotten": 0.352,
+            "scars": 0.284,
+            "skin_breakdown": 0.639,
+            "surface": 0.263
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 1,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0917_000147.npz",
+         "scores": {
+            "green": 0.337,
+            "hollow": 0.522,
+            "insect": 0.395,
+            "oil_spots": 0.474,
+            "plu_stickers": 0.3,
+            "rotten": 0.345,
+            "scars": 0.291,
+            "skin_breakdown": 0.453,
+            "surface": 0.256
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0949_000258.npz",
+         "scores": {
+            "green": 0.275,
+            "hollow": 0.246,
+            "insect": 0.441,
+            "oil_spots": 0.335,
+            "plu_stickers": 0.284,
+            "rotten": 0.345,
+            "scars": 0.273,
+            "skin_breakdown": 0.547,
+            "surface": 0.239
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0906_000128.npz",
+         "scores": {
+            "green": 0.388,
+            "hollow": 0.418,
+            "insect": 0.333,
+            "oil_spots": 0.305,
+            "plu_stickers": 0.286,
+            "rotten": 0.377,
+            "scars": 0.259,
+            "skin_breakdown": 0.381,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0906_000127.npz",
+         "scores": {
+            "green": 0.324,
+            "hollow": 0.266,
+            "insect": 0.268,
+            "oil_spots": 0.486,
+            "plu_stickers": 0.296,
+            "rotten": 0.935,
+            "scars": 0.282,
+            "skin_breakdown": 0.312,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/manfredi/20250224_0948_000238.npz",
+         "scores": {
+            "green": 0.395,
+            "hollow": 0.282,
+            "insect": 0.324,
+            "oil_spots": 0.361,
+            "plu_stickers": 0.294,
+            "rotten": 0.361,
+            "scars": 0.282,
+            "skin_breakdown": 0.927,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220810_021928_Encoder_Buenas/20250218_1052_000418.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.261,
+            "insect": 0.273,
+            "oil_spots": 0.5,
+            "plu_stickers": 0.718,
+            "rotten": 0.3,
+            "scars": 0.273,
+            "skin_breakdown": 0.264,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220810_021928_Encoder_Buenas/20250218_1051_000416.npz",
+         "scores": {
+            "green": 0.43,
+            "hollow": 0.25,
+            "insect": 0.273,
+            "oil_spots": 0.317,
+            "plu_stickers": 0.976,
+            "rotten": 0.273,
+            "scars": 0.263,
+            "skin_breakdown": 0.264,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220810_021928_Encoder_Buenas/20250218_1052_000421.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.275,
+            "insect": 0.28,
+            "oil_spots": 0.347,
+            "plu_stickers": 0.968,
+            "rotten": 0.314,
+            "scars": 0.273,
+            "skin_breakdown": 0.28,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220810_021928_Encoder_Buenas/20250218_1052_002276.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.264,
+            "insect": 0.27,
+            "oil_spots": 0.779,
+            "plu_stickers": 0.314,
+            "rotten": 0.3,
+            "scars": 0.273,
+            "skin_breakdown": 0.275,
+            "surface": 0.25
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220810_022231_Encoder_decay/20250218_1100_000437.npz",
+         "scores": {
+            "green": 0.264,
+            "hollow": 0.263,
+            "insect": 0.273,
+            "oil_spots": 0.838,
+            "plu_stickers": 0.612,
+            "rotten": 0.977,
+            "scars": 0.266,
+            "skin_breakdown": 0.257,
+            "surface": 0.245
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220810_022231_Encoder_decay/20250218_1100_002292.npz",
+         "scores": {
+            "green": 0.261,
+            "hollow": 0.268,
+            "insect": 0.266,
+            "oil_spots": 0.377,
+            "plu_stickers": 0.728,
+            "rotten": 0.945,
+            "scars": 0.275,
+            "skin_breakdown": 0.296,
+            "surface": 0.241
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220810_022231_Encoder_decay/20250218_1100_002289.npz",
+         "scores": {
+            "green": 0.263,
+            "hollow": 0.252,
+            "insect": 0.272,
+            "oil_spots": 0.745,
+            "plu_stickers": 0.284,
+            "rotten": 0.985,
+            "scars": 0.462,
+            "skin_breakdown": 0.275,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220810_022231_Encoder_decay/20250218_1100_000435.npz",
+         "scores": {
+            "green": 0.266,
+            "hollow": 0.259,
+            "insect": 0.27,
+            "oil_spots": 0.375,
+            "plu_stickers": 0.663,
+            "rotten": 0.663,
+            "scars": 0.27,
+            "skin_breakdown": 0.245,
+            "surface": 0.24
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 0,
+            "rotten": 1,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214906_prod_naranja_plu/20250218_1213_002565.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.259,
+            "insect": 0.27,
+            "oil_spots": 0.328,
+            "plu_stickers": 0.995,
+            "rotten": 0.298,
+            "scars": 0.275,
+            "skin_breakdown": 0.257,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214906_prod_naranja_plu/20250218_1212_002555.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.261,
+            "insect": 0.261,
+            "oil_spots": 0.382,
+            "plu_stickers": 0.995,
+            "rotten": 0.419,
+            "scars": 0.266,
+            "skin_breakdown": 0.275,
+            "surface": 0.245
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214906_prod_naranja_plu/20250218_1211_000716.npz",
+         "scores": {
+            "green": 0.233,
+            "hollow": 0.212,
+            "insect": 0.232,
+            "oil_spots": 0.483,
+            "plu_stickers": 0.994,
+            "rotten": 0.416,
+            "scars": 0.217,
+            "skin_breakdown": 0.194,
+            "surface": 0.224
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214906_prod_naranja_plu/20250218_1212_000732.npz",
+         "scores": {
+            "green": 0.252,
+            "hollow": 0.263,
+            "insect": 0.28,
+            "oil_spots": 0.333,
+            "plu_stickers": 0.996,
+            "rotten": 0.298,
+            "scars": 0.277,
+            "skin_breakdown": 0.259,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214906_prod_naranja_plu/20250218_1212_002559.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.273,
+            "insect": 0.273,
+            "oil_spots": 0.444,
+            "plu_stickers": 0.992,
+            "rotten": 0.312,
+            "scars": 0.273,
+            "skin_breakdown": 0.264,
+            "surface": 0.243
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214906_prod_naranja_plu/20250218_1213_002566.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.261,
+            "insect": 0.284,
+            "oil_spots": 0.316,
+            "plu_stickers": 0.991,
+            "rotten": 0.342,
+            "scars": 0.275,
+            "skin_breakdown": 0.272,
+            "surface": 0.24
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214906_prod_naranja_plu/20250218_1213_000736.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.263,
+            "insect": 0.266,
+            "oil_spots": 0.813,
+            "plu_stickers": 0.994,
+            "rotten": 0.574,
+            "scars": 0.277,
+            "skin_breakdown": 0.263,
+            "surface": 0.241
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214906_prod_naranja_plu/20250218_1213_000737.npz",
+         "scores": {
+            "green": 0.263,
+            "hollow": 0.273,
+            "insect": 0.266,
+            "oil_spots": 0.486,
+            "plu_stickers": 0.995,
+            "rotten": 0.393,
+            "scars": 0.266,
+            "skin_breakdown": 0.27,
+            "surface": 0.241
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214906_prod_naranja_plu/20250218_1211_002552.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.261,
+            "insect": 0.268,
+            "oil_spots": 0.497,
+            "plu_stickers": 0.989,
+            "rotten": 0.37,
+            "scars": 0.293,
+            "skin_breakdown": 0.268,
+            "surface": 0.243
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214322_prod_naranja_plu/20250218_1006_002246.npz",
+         "scores": {
+            "green": 0.28,
+            "hollow": 0.268,
+            "insect": 0.256,
+            "oil_spots": 0.321,
+            "plu_stickers": 0.99,
+            "rotten": 0.316,
+            "scars": 0.284,
+            "skin_breakdown": 0.259,
+            "surface": 0.247
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214322_prod_naranja_plu/20250218_1006_002242.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.257,
+            "insect": 0.266,
+            "oil_spots": 0.372,
+            "plu_stickers": 0.991,
+            "rotten": 0.307,
+            "scars": 0.273,
+            "skin_breakdown": 0.282,
+            "surface": 0.244
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214322_prod_naranja_plu/20250218_1006_002243.npz",
+         "scores": {
+            "green": 0.257,
+            "hollow": 0.264,
+            "insect": 0.272,
+            "oil_spots": 0.672,
+            "plu_stickers": 0.991,
+            "rotten": 0.294,
+            "scars": 0.277,
+            "skin_breakdown": 0.256,
+            "surface": 0.252
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214322_prod_naranja_plu/20250218_1005_000369.npz",
+         "scores": {
+            "green": 0.241,
+            "hollow": 0.234,
+            "insect": 0.259,
+            "oil_spots": 0.256,
+            "plu_stickers": 0.99,
+            "rotten": 0.25,
+            "scars": 0.254,
+            "skin_breakdown": 0.224,
+            "surface": 0.248
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214322_prod_naranja_plu/20250218_1006_000390.npz",
+         "scores": {
+            "green": 0.254,
+            "hollow": 0.266,
+            "insect": 0.275,
+            "oil_spots": 0.328,
+            "plu_stickers": 0.992,
+            "rotten": 0.293,
+            "scars": 0.282,
+            "skin_breakdown": 0.273,
+            "surface": 0.246
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220829_214322_prod_naranja_plu/20250218_1005_000367.npz",
+         "scores": {
+            "green": 0.247,
+            "hollow": 0.225,
+            "insect": 0.252,
+            "oil_spots": 0.407,
+            "plu_stickers": 0.995,
+            "rotten": 0.261,
+            "scars": 0.24,
+            "skin_breakdown": 0.217,
+            "surface": 0.223
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 0,
+            "plu_stickers": 1,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220810_022140_Encoder_oilspot/20250218_1057_000425.npz",
+         "scores": {
+            "green": 0.256,
+            "hollow": 0.263,
+            "insect": 0.266,
+            "oil_spots": 0.87,
+            "plu_stickers": 0.284,
+            "rotten": 0.298,
+            "scars": 0.273,
+            "skin_breakdown": 0.259,
+            "surface": 0.241
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220810_022140_Encoder_oilspot/20250218_1058_002286.npz",
+         "scores": {
+            "green": 0.259,
+            "hollow": 0.256,
+            "insect": 0.261,
+            "oil_spots": 0.537,
+            "plu_stickers": 0.286,
+            "rotten": 0.492,
+            "scars": 0.268,
+            "skin_breakdown": 0.256,
+            "surface": 0.244
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      },
+      {
+         "filename": "/home/aalbiol/owc/mscanData/pngs_anotados/S90/oranges/navel/KDC/20220810_022140_Encoder_oilspot/20250218_1058_000428.npz",
+         "scores": {
+            "green": 0.483,
+            "hollow": 0.25,
+            "insect": 0.266,
+            "oil_spots": 0.992,
+            "plu_stickers": 0.303,
+            "rotten": 0.31,
+            "scars": 0.275,
+            "skin_breakdown": 0.247,
+            "surface": 0.238
+         },
+         "ground_truth": {
+            "green": 0,
+            "hollow": 0,
+            "insect": 0,
+            "oil_spots": 1,
+            "plu_stickers": 0,
+            "rotten": 0,
+            "scars": 0,
+            "skin_breakdown": 0,
+            "surface": 0
+         }
+      }
+   ],
+   "evaluation_date": "2025-02-27 18:21:05.706955",
+   "training_date": "2025-02-27 17:00:55.461952",
+   "model_file": "out_models/s90_patch.pkl"
+}
