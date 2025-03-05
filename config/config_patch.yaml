@@ -8,7 +8,7 @@ data:
   #delimiter: _
   maxvalues: 255
   
-  root_folder: /home/aalbiol/owc/mscanData/pngs_anotados/S90
+  root_folder: data
   terminaciones: ".npz" # Para cimgs todos los canales van en un solo archivo .cimg
   channel_list:
   - R 
@@ -18,9 +18,9 @@ data:
   - UV
 
   train:
-  # - - train_list.txt
-  #   - mandarins/clementine/KDC/20220808_154231_Img_20220808_154156produccionClementina
-  #   - mandarins/clementine/KDC/20220808_154231_Img_20220808_154156produccionClementina
+  - - train_list.txt
+    - mandarins/clementine/KDC/20220808_154231_Img_20220808_154156produccionClementina
+    - mandarins/clementine/KDC/20220808_154231_Img_20220808_154156produccionClementina
   - - train_list.txt    
     - mandarins/clementine/KDC/20220803_225931_CLEMENTINE_Encoder_SURFACE1
     - mandarins/clementine/KDC/20220803_225931_CLEMENTINE_Encoder_SURFACE1    
@@ -33,9 +33,9 @@ data:
   - - train_list.txt
     - mandarins/clementine/KDC/20220803_230515_CLEMENTINE_Encoder_Creasing1
     - mandarins/clementine/KDC/20220803_230515_CLEMENTINE_Encoder_Creasing1    
-  # - - train_list.txt
-  #   - mandarins/clementine/KDC/20220808_154209_Img_20220808_154156produccionClementina
-  #   - mandarins/clementine/KDC/20220808_154209_Img_20220808_154156produccionClementina    
+  - - train_list.txt
+    - mandarins/clementine/KDC/20220808_154209_Img_20220808_154156produccionClementina
+    - mandarins/clementine/KDC/20220808_154209_Img_20220808_154156produccionClementina    
   - - train_list.txt
     - mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good
     - mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good
@@ -48,9 +48,9 @@ data:
   - - train_list.txt
     - mandarins/clementine/KDC/20220803_230703_CLEMENTINE_Encoder_rot
     - mandarins/clementine/KDC/20220803_230703_CLEMENTINE_Encoder_rot    
-  # - - train_list.txt
-  #   - mandarins/clementine/KDC/20220808_154219_Img_20220808_154156produccionClementina
-  #   - mandarins/clementine/KDC/20220808_154219_Img_20220808_154156produccionClementina
+  - - train_list.txt
+    - mandarins/clementine/KDC/20220808_154219_Img_20220808_154156produccionClementina
+    - mandarins/clementine/KDC/20220808_154219_Img_20220808_154156produccionClementina
   - - train_list.txt
     - mandarins/clementine/KDC/20220803_231323_CLEMENTINE_Encoder_Skin
     - mandarins/clementine/KDC/20220803_231323_CLEMENTINE_Encoder_Skin
@@ -63,9 +63,9 @@ data:
   - - train_list.txt
     - mandarins/tango/KDC/20220806_185520_tango_ENCODER_MANCHAS
     - mandarins/tango/KDC/20220806_185520_tango_ENCODER_MANCHAS
-  # - - train_list.txt
-  #   - mandarins/tango/KDC/20220805_180026_tangoPROD
-  #   - mandarins/tango/KDC/20220805_180026_tangoPROD
+  - - train_list.txt
+    - mandarins/tango/KDC/20220805_180026_tangoPROD
+    - mandarins/tango/KDC/20220805_180026_tangoPROD
   - - train_list.txt
     - mandarins/tango/KDC/20220805_225459_tango_ENCODER_scars
     - mandarins/tango/KDC/20220805_225459_tango_ENCODER_scars
@@ -75,9 +75,9 @@ data:
   - - train_list.txt
     - mandarins/tango/KDC/20220804_230522_TANGO_encoder_SkinDamage
     - mandarins/tango/KDC/20220804_230522_TANGO_encoder_SkinDamage
-  # - - train_list.txt
-  #   - mandarins/tango/KDC/20220805_172517_tango_PROD
-  #   - mandarins/tango/KDC/20220805_172517_tango_PROD
+  - - train_list.txt
+    - mandarins/tango/KDC/20220805_172517_tango_PROD
+    - mandarins/tango/KDC/20220805_172517_tango_PROD
   - - train_list.txt
     - mandarins/tango/KDC/20220806_185859_tango_ENCODER_ROTAS
     - mandarins/tango/KDC/20220806_185859_tango_ENCODER_ROTAS
@@ -111,9 +111,9 @@ data:
   
 
   val:
-  # - - val_list.txt
-  #   - mandarins/clementine/KDC/20220808_154231_Img_20220808_154156produccionClementina
-  #   - mandarins/clementine/KDC/20220808_154231_Img_20220808_154156produccionClementina
+  - - val_list.txt
+    - mandarins/clementine/KDC/20220808_154231_Img_20220808_154156produccionClementina
+    - mandarins/clementine/KDC/20220808_154231_Img_20220808_154156produccionClementina
   - - val_list.txt    
     - mandarins/clementine/KDC/20220803_225931_CLEMENTINE_Encoder_SURFACE1
     - mandarins/clementine/KDC/20220803_225931_CLEMENTINE_Encoder_SURFACE1    
@@ -126,9 +126,9 @@ data:
   - - val_list.txt
     - mandarins/clementine/KDC/20220803_230515_CLEMENTINE_Encoder_Creasing1
     - mandarins/clementine/KDC/20220803_230515_CLEMENTINE_Encoder_Creasing1    
-  # - - val_list.txt
-  #   - mandarins/clementine/KDC/20220808_154209_Img_20220808_154156produccionClementina
-  #   - mandarins/clementine/KDC/20220808_154209_Img_20220808_154156produccionClementina    
+  - - val_list.txt
+    - mandarins/clementine/KDC/20220808_154209_Img_20220808_154156produccionClementina
+    - mandarins/clementine/KDC/20220808_154209_Img_20220808_154156produccionClementina    
   - - val_list.txt
     - mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good
     - mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good
@@ -141,9 +141,9 @@ data:
   - - val_list.txt
     - mandarins/clementine/KDC/20220803_230703_CLEMENTINE_Encoder_rot
     - mandarins/clementine/KDC/20220803_230703_CLEMENTINE_Encoder_rot    
-  # - - val_list.txt
-  #   - mandarins/clementine/KDC/20220808_154219_Img_20220808_154156produccionClementina
-  #   - mandarins/clementine/KDC/20220808_154219_Img_20220808_154156produccionClementina
+  - - val_list.txt
+    - mandarins/clementine/KDC/20220808_154219_Img_20220808_154156produccionClementina
+    - mandarins/clementine/KDC/20220808_154219_Img_20220808_154156produccionClementina
   - - val_list.txt
     - mandarins/clementine/KDC/20220803_231323_CLEMENTINE_Encoder_Skin
     - mandarins/clementine/KDC/20220803_231323_CLEMENTINE_Encoder_Skin
@@ -156,9 +156,9 @@ data:
   - - val_list.txt
     - mandarins/tango/KDC/20220806_185520_tango_ENCODER_MANCHAS
     - mandarins/tango/KDC/20220806_185520_tango_ENCODER_MANCHAS
-  # - - val_list.txt
-  #   - mandarins/tango/KDC/20220805_180026_tangoPROD
-  #   - mandarins/tango/KDC/20220805_180026_tangoPROD
+  - - val_list.txt
+    - mandarins/tango/KDC/20220805_180026_tangoPROD
+    - mandarins/tango/KDC/20220805_180026_tangoPROD
   - - val_list.txt
     - mandarins/tango/KDC/20220805_225459_tango_ENCODER_scars
     - mandarins/tango/KDC/20220805_225459_tango_ENCODER_scars
@@ -168,9 +168,9 @@ data:
   - - val_list.txt
     - mandarins/tango/KDC/20220804_230522_TANGO_encoder_SkinDamage
     - mandarins/tango/KDC/20220804_230522_TANGO_encoder_SkinDamage
-  # - - val_list.txt
-  #   - mandarins/tango/KDC/20220805_172517_tango_PROD
-  #   - mandarins/tango/KDC/20220805_172517_tango_PROD
+  - - val_list.txt
+    - mandarins/tango/KDC/20220805_172517_tango_PROD
+    - mandarins/tango/KDC/20220805_172517_tango_PROD
   - - val_list.txt
     - mandarins/tango/KDC/20220806_185859_tango_ENCODER_ROTAS
     - mandarins/tango/KDC/20220806_185859_tango_ENCODER_ROTAS
@@ -204,6 +204,7 @@ model:
   - green
   - hollow
   - insect
+  - light_scars
   - oil_spots
   - plu_stickers
   - rotten
@@ -215,20 +216,20 @@ model:
 
 train:
   batch_size: 20
-  epochs: 25
+  epochs: 40
   in_memory: true
   initial_model: null
-  label_smoothing: 0.1
-  learning_rate: 0.003
+  label_smoothing: 0.01
+  learning_rate: 0.001
   optimizer: adam
   num_workers: -1
   output:
     model_file: s90_patch.pkl
     path: out_models
-  p_dropout: 0.5 
-  unfreeze_epoch: 30
+  p_dropout: 0.0
+  unfreeze_epoch: 15
   warmup: 3
-  weights_decay: 0.001
+  weights_decay: 0.01
   logname: prueba_ini_s90_patch
 
   augmentation:

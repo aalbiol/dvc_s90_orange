@@ -1,0 +1,34 @@
+{
+    "information": {
+        "BatchName": "mandarines",
+        "BatchType": "nardocot",
+        "BatchCoop": "manfredi",
+        "Sequence": "20250219 123852 Img_20250219_095037"
+    },
+    "maxValChannels": 1023,
+    "channels": "H;S;I;NIR;UV;R;G;B;AuxB1",
+    "annotations": {
+        "bleaching": "0",
+        "cracks": "0",
+        "damage_by_pliers": "0",
+        "deformed_counterpeduncle": "0",
+        "deformed_peduncle": "0",
+        "green": "0",
+        "hollow": "0",
+        "insect": "1",
+        "light_scars": "0",
+        "mechanical_damage": "0",
+        "oil_spots": "0",
+        "plu_stickers": "0",
+        "rotten": "0",
+        "scars": "0",
+        "skin_breakdown": "0",
+        "skin_creasing": "0",
+        "surface": "1",
+        "discarded": "0"
+    },
+    "files": {
+        "1": "20250220_1245_002194.png",
+        "2": "20250220_1245_002194.npz"
+    }
+}
