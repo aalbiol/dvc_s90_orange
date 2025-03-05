@@ -1,0 +1,5 @@
+[core]
+    autostage = true
+    remote = s90_s3
+['remote "s90_s3"']
+    url = s3://msc-dev-datalake/datasets/S90_DL
