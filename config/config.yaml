@@ -216,22 +216,22 @@ model:
   model_version: 50
 
 train:
-  batch_size: 20
-  epochs: 50
+  batch_size: 11
+  epochs: 40
   in_memory: true
   initial_model: null
-  label_smoothing: 0.1
-  learning_rate: 0.006
+  label_smoothing: 0.0
+  learning_rate: 0.01
   optimizer: sgd
   num_workers: -1
   output:
     model_file: s90.pkl
     path: out_models
-  p_dropout: 0.3 
+  p_dropout: 0.4 
   unfreeze_epoch: 50
   warmup: 3
   weights_decay: 0.03
-  logname: prueba_ini_s90
+  logname: prueba_ini_todo_pos_neg_separado
 
   augmentation:
     random_rotation: 30

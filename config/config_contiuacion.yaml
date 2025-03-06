@@ -217,7 +217,7 @@ model:
 
 train:
   batch_size: 20
-  epochs: 50
+  epochs: 80
   in_memory: true
   initial_model: out_models/s90_ini.pkl
   label_smoothing: 0.1
@@ -231,7 +231,7 @@ train:
   unfreeze_epoch: 50
   warmup: 3
   weights_decay: 0.03
-  logname: prueba_ini_s90
+  logname: prueba_ini_s90_reanudacion
 
   augmentation:
     random_rotation: 30
