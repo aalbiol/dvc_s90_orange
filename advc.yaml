@@ -34,7 +34,7 @@ stages:
 
 
   train:
-    cmd: python ../src_clasificacion_vistas/train/trainMIL.py --config config/config.yaml
+    cmd: python ../src_clasificacion_vistas/train/trainPatchMIL.py config/config.yaml
     deps:
     - ../src_clasificacion_vistas/train/trainMIL.py
 

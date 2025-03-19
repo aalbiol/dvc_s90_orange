@@ -203,7 +203,7 @@ model:
   defect_types:
   - green
   - hollow
-  - insect
+  #- insect
   - light_scars
   - oil_spots
   - plu_stickers
@@ -213,12 +213,12 @@ model:
   - surface
 
   num_channels_input: 5
-  model_version: 50
+  model_version: 50 
 
 train:
   batch_size: 11
-  epochs: 10
-  epochs_defecto: 15
+  epochs: 30
+  epochs_defecto: 25
   in_memory: false
   initial_model: null
   label_smoothing: 0.0
@@ -228,7 +228,7 @@ train:
   output:
     model_file: s90.pkl
     path: out_models
-  p_dropout: 0.4 
+  p_dropout: 0.3 
   unfreeze_epoch: 50
   warmup: 2
   weights_decay: 0.03
