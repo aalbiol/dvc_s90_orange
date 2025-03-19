@@ -230,8 +230,8 @@ train:
   unfreeze_epoch: 30
   warmup: 3
   weights_decay: 0.01
-  logname: s90_patch_vistas_focal_1
-  focal_loss_gamma: 1
+  logname: s90_patch_vistas_224
+  focal_loss_gamma: 2
   focal_loss_alpha: 0.5 # Para la clase positiva
 
   augmentation:
