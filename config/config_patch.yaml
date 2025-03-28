@@ -230,7 +230,7 @@ train:
   unfreeze_epoch: 30
   warmup: 3
   weights_decay: 0.01
-  logname: s90_patch_vistas_224
+  logname: s90_patch_vistas_224_reanot3
   focal_loss_gamma: 2
   focal_loss_alpha: 0.5 # Para la clase positiva
 
@@ -261,7 +261,7 @@ evaluate:
   model_dir: out_models
   model_file: s90_patch_224.pkl
   
-  report_dir: out_evaluate_patch_224
+  report_dir: out_evaluate_patch_224_reanot3
   train_predictions: train_scores.json
   val_predictions: val_scores.json
   aucs: aucs.json
