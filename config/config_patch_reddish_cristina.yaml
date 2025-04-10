@@ -260,7 +260,7 @@ model:
   - light_scars
   - oil_spots
   - plu_stickers
-  - reddish
+  # - reddish
   - rotten
   - scars
   - skin_breakdown
