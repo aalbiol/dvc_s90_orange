@@ -4,33 +4,13 @@ stages:
     deps:
     - ../src_clasificacion_vistas/data/MIL_split_train_val.py
     params:
-    - config/config2.yaml:
+    - config/config.yaml:
       - data
     outs:
     - data/lote1/jsons/train_list.txt
     - data/lote1/jsons/val_list.txt
        
-    - data/lote2/20230419_120236_DeformesDoblesEncoder/jsons/train_list.txt
-    - data/lote2/20230419_100534_BuenoEncoder/jsons/train_list.txt
-    - data/lote2/20230419_114356_CicatrizDefSupEncoder/jsons/train_list.txt
-    - data/lote2/20230419_113002_LagrimaEncoder/jsons/train_list.txt
-    - data/lote2/20230419_122528_VerdeRojoEncoder/jsons/train_list.txt
-    - data/lote2/20230419_121536_BlandoEncoder/jsons/train_list.txt
-    - data/lote2/20230419_115631_DestrioRotaEncoder/jsons/train_list.txt
-    - data/lote2/20230419_112500_BuenoEncoder/jsons/train_list.txt
-    - data/lote2/20230419_122046ArrugadoEncoder/jsons/train_list.txt
-    - data/lote2/20230419_115102_HojaRaboConDeformeEncoder/jsons/train_list.txt
 
-    - data/lote2/20230419_120236_DeformesDoblesEncoder/jsons/val_list.txt
-    - data/lote2/20230419_100534_BuenoEncoder/jsons/val_list.txt
-    - data/lote2/20230419_114356_CicatrizDefSupEncoder/jsons/val_list.txt
-    - data/lote2/20230419_113002_LagrimaEncoder/jsons/val_list.txt
-    - data/lote2/20230419_122528_VerdeRojoEncoder/jsons/val_list.txt
-    - data/lote2/20230419_121536_BlandoEncoder/jsons/val_list.txt
-    - data/lote2/20230419_115631_DestrioRotaEncoder/jsons/val_list.txt
-    - data/lote2/20230419_112500_BuenoEncoder/jsons/val_list.txt
-    - data/lote2/20230419_122046ArrugadoEncoder/jsons/val_list.txt
-    - data/lote2/20230419_115102_HojaRaboConDeformeEncoder/jsons/val_list.txt
 
 
   train:
@@ -45,13 +25,13 @@ stages:
       - train
       - model 	
     outs:
-    - out_models/arandanos2.pkl
+    - out_models/orange_s90.pkl
 
   evaluate:
-    cmd: python ../src_clasificacion_vistas/evaluate/evaluateMIL.py config/config.yaml 
+    cmd: python ../src_clasificacion_vistas/evaluate/evaluatePatchMIL.py config/config.yaml 
     deps:
-    - ../src_clasificacion_vistas/evaluate/evaluateMIL.py
-    - out_models/arandanos2.pkl
+    - ../src_clasificacion_vistas/evaluate/evaluatePatchMIL.py
+    - out_models/orange_s90.pkl
     params:
     - config/config2.yaml:
       - data
@@ -62,15 +42,15 @@ stages:
     - out_evaluate/train_scores.json
     - out_evaluate/val_scores.json
   
-  report:
-    cmd: jupyter nbconvert --to notebook --execute reports/analisis_prestaciones.ipynb
-    deps:
-    - reports/analisis_prestaciones.ipynb
-    - out_evaluate/aucs.json
-    - out_evaluate/train_scores.json
-    - out_evaluate/val_scores.json    
-    outs:
-    - reports/analisis_prestaciones.nbconvert.ipynb
+  # report:
+  #   cmd: jupyter nbconvert --to notebook --execute reports/analisis_prestaciones.ipynb
+  #   deps:
+  #   - reports/analisis_prestaciones.ipynb
+  #   - out_evaluate/aucs.json
+  #   - out_evaluate/train_scores.json
+  #   - out_evaluate/val_scores.json    
+  #   outs:
+  #   - reports/analisis_prestaciones.nbconvert.ipynb
 
 
   
