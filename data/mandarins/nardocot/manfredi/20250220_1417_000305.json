@@ -51,7 +51,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_1": {
             "bleaching": "0",
@@ -135,7 +135,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         }
     }
 }

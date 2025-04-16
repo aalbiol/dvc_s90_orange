@@ -9,7 +9,7 @@
     "channels": "H;S;I;NIR;UV;R;G;B;AuxB1",
     "annotations": {
         "bleaching": "0",
-        "cracks": "0",
+        "cracks": "1",
         "damage_by_pliers": "0",
         "deformed_counterpeduncle": "0",
         "deformed_peduncle": "1",
@@ -160,7 +160,7 @@
         },
         "view_6": {
             "insect": "0",
-            "cracks": "0",
+            "cracks": "1",
             "light_scars": "0",
             "rotten": "1",
             "scars": "0",

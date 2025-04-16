@@ -23,7 +23,7 @@
         "reddish": "0",
         "rotten": "0",
         "scars": "0",
-        "skin_breakdown": "1",
+        "skin_breakdown": "0",
         "skin_creasing": "0",
         "surface": "1"
     },
@@ -51,7 +51,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_1": {
             "bleaching": "0",
@@ -112,9 +112,9 @@
             "reddish": "0",
             "rotten": "0",
             "scars": "0",
-            "skin_breakdown": "1",
+            "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_4": {
             "bleaching": "0",
@@ -133,9 +133,9 @@
             "reddish": "0",
             "rotten": "0",
             "scars": "0",
-            "skin_breakdown": "1",
+            "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_5": {
             "bleaching": "0",
@@ -177,7 +177,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_7": {
             "bleaching": "0",
@@ -198,7 +198,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_8": {
             "bleaching": "0",
@@ -219,7 +219,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_9": {
             "bleaching": "0",
@@ -240,7 +240,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_10": {
             "bleaching": "0",
@@ -261,7 +261,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         }
     }
 }

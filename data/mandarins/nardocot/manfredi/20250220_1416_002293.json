@@ -51,7 +51,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_1": {
             "bleaching": "0",
@@ -72,7 +72,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_2": {
             "bleaching": "0",
@@ -126,7 +126,7 @@
             "green": "0",
             "hollow": "0",
             "insect": "0",
-            "light_scars": "1",
+            "light_scars": "0",
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
@@ -135,7 +135,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_5": {
             "bleaching": "0",
@@ -168,7 +168,7 @@
             "green": "0",
             "hollow": "0",
             "insect": "0",
-            "light_scars": "1",
+            "light_scars": "0",
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
@@ -177,7 +177,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_7": {
             "bleaching": "0",
@@ -189,7 +189,7 @@
             "green": "0",
             "hollow": "0",
             "insect": "0",
-            "light_scars": "1",
+            "light_scars": "0",
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
@@ -198,7 +198,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_8": {
             "bleaching": "0",

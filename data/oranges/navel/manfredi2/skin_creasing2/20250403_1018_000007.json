@@ -16,7 +16,7 @@
         "green": "0",
         "hollow": "0",
         "insect": "0",
-        "light_scars": "1",
+        "light_scars": "0",
         "mechanical_damage": "0",
         "oil_spots": "0",
         "plu_stickers": "1",
@@ -25,7 +25,7 @@
         "skin_breakdown": "0",
         "skin_creasing": "0",
         "surface": "0",
-        "reddish": "0"
+        "reddish": "1"
     },
     "files": {
         "1": "20250403_1018_000007.png",
@@ -98,7 +98,7 @@
         "view_3": {
             "insect": "0",
             "cracks": "0",
-            "light_scars": "1",
+            "light_scars": "0",
             "rotten": "0",
             "scars": "0",
             "green": "0",
@@ -119,7 +119,7 @@
         "view_4": {
             "insect": "0",
             "cracks": "0",
-            "light_scars": "1",
+            "light_scars": "0",
             "rotten": "0",
             "scars": "0",
             "green": "0",
@@ -140,7 +140,7 @@
         "view_5": {
             "insect": "0",
             "cracks": "0",
-            "light_scars": "1",
+            "light_scars": "0",
             "rotten": "0",
             "scars": "0",
             "green": "0",
@@ -161,7 +161,7 @@
         "view_6": {
             "insect": "0",
             "cracks": "0",
-            "light_scars": "1",
+            "light_scars": "0",
             "rotten": "0",
             "scars": "0",
             "green": "0",
@@ -182,7 +182,7 @@
         "view_7": {
             "insect": "0",
             "cracks": "0",
-            "light_scars": "1",
+            "light_scars": "0",
             "rotten": "0",
             "scars": "0",
             "green": "0",
@@ -261,7 +261,7 @@
             "skin_creasing": "0",
             "deformed_peduncle": "0",
             "plu_stickers": "0",
-            "reddish": "0"
+            "reddish": "1"
         }
     }
 }

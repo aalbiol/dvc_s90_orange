@@ -16,7 +16,7 @@
         "green": "0",
         "hollow": "0",
         "insect": "0",
-        "light_scars": "1",
+        "light_scars": "0",
         "mechanical_damage": "0",
         "oil_spots": "0",
         "plu_stickers": "0",
@@ -35,7 +35,7 @@
         "view_0": {
             "insect": "0",
             "cracks": "0",
-            "light_scars": "1",
+            "light_scars": "0",
             "rotten": "0",
             "scars": "0",
             "green": "0",

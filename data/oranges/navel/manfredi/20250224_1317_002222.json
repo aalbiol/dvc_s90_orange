@@ -25,7 +25,7 @@
         "scars": "0",
         "skin_breakdown": "1",
         "skin_creasing": "0",
-        "surface": "1"
+        "surface": "0"
     },
     "files": {
         "1": "20250224_1317_002222.png",
@@ -133,7 +133,7 @@
             "reddish": "0",
             "rotten": "0",
             "scars": "0",
-            "skin_breakdown": "1",
+            "skin_breakdown": "0",
             "skin_creasing": "0",
             "surface": "0"
         },
@@ -198,7 +198,7 @@
             "scars": "0",
             "skin_breakdown": "1",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_8": {
             "bleaching": "0",

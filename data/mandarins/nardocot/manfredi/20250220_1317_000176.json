@@ -20,7 +20,7 @@
         "mechanical_damage": "0",
         "oil_spots": "0",
         "plu_stickers": "0",
-        "reddish": "0",
+        "reddish": "1",
         "rotten": "1",
         "scars": "0",
         "skin_breakdown": "0",
@@ -135,7 +135,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_5": {
             "bleaching": "0",
@@ -151,7 +151,7 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
+            "reddish": "1",
             "rotten": "1",
             "scars": "0",
             "skin_breakdown": "0",
@@ -177,7 +177,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "0"
         },
         "view_7": {
             "bleaching": "0",

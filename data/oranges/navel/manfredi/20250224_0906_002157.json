@@ -9,7 +9,7 @@
     "channels": "H;S;I;NIR;UV;R;G;B;AuxB1",
     "annotations": {
         "bleaching": "0",
-        "cracks": "0",
+        "cracks": "1",
         "damage_by_pliers": "0",
         "deformed_counterpeduncle": "0",
         "deformed_peduncle": "0",
@@ -55,7 +55,7 @@
         },
         "view_1": {
             "bleaching": "0",
-            "cracks": "0",
+            "cracks": "1",
             "damage_by_pliers": "0",
             "deformed_counterpeduncle": "0",
             "deformed_peduncle": "0",
@@ -76,7 +76,7 @@
         },
         "view_2": {
             "bleaching": "0",
-            "cracks": "0",
+            "cracks": "1",
             "damage_by_pliers": "0",
             "deformed_counterpeduncle": "0",
             "deformed_peduncle": "0",
@@ -97,7 +97,7 @@
         },
         "view_3": {
             "bleaching": "0",
-            "cracks": "0",
+            "cracks": "1",
             "damage_by_pliers": "0",
             "deformed_counterpeduncle": "0",
             "deformed_peduncle": "0",
@@ -118,7 +118,7 @@
         },
         "view_4": {
             "bleaching": "0",
-            "cracks": "0",
+            "cracks": "1",
             "damage_by_pliers": "0",
             "deformed_counterpeduncle": "0",
             "deformed_peduncle": "0",
