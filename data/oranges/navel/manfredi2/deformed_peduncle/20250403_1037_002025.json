@@ -15,7 +15,7 @@
         "deformed_peduncle": "0",
         "green": "0",
         "hollow": "0",
-        "insect": "0",
+        "insect": "1",
         "light_scars": "0",
         "mechanical_damage": "0",
         "oil_spots": "0",
@@ -33,7 +33,7 @@
     },
     "views_annotations": {
         "view_0": {
-            "insect": "0",
+            "insect": "1",
             "cracks": "0",
             "light_scars": "0",
             "rotten": "0",
@@ -54,7 +54,7 @@
             "reddish": "0"
         },
         "view_1": {
-            "insect": "0",
+            "insect": "1",
             "cracks": "0",
             "light_scars": "0",
             "rotten": "0",
@@ -75,11 +75,11 @@
             "reddish": "0"
         },
         "view_2": {
-            "insect": "0",
+            "insect": "1",
             "cracks": "0",
             "light_scars": "0",
             "rotten": "0",
-            "scars": "0",
+            "scars": "1",
             "green": "0",
             "hollow": "0",
             "skin_breakdown": "0",
@@ -100,7 +100,7 @@
             "cracks": "0",
             "light_scars": "0",
             "rotten": "0",
-            "scars": "0",
+            "scars": "1",
             "green": "0",
             "hollow": "0",
             "skin_breakdown": "0",
