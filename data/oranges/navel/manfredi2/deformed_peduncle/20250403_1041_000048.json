@@ -92,7 +92,7 @@
             "mechanical_damage": "0",
             "skin_creasing": "0",
             "deformed_peduncle": "0",
-            "plu_stickers": "0",
+            "plu_stickers": "1",
             "reddish": "0"
         },
         "view_3": {
@@ -198,7 +198,7 @@
             "skin_creasing": "0",
             "deformed_peduncle": "0",
             "plu_stickers": "0",
-            "reddish": "1"
+            "reddish": "0"
         },
         "view_8": {
             "insect": "0",
@@ -219,7 +219,7 @@
             "skin_creasing": "0",
             "deformed_peduncle": "0",
             "plu_stickers": "0",
-            "reddish": "1"
+            "reddish": "0"
         },
         "view_9": {
             "insect": "0",

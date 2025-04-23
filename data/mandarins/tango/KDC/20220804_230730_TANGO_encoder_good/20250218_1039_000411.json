@@ -22,10 +22,10 @@
         "plu_stickers": "0",
         "reddish": "0",
         "rotten": "0",
-        "scars": "0",
+        "scars": "1",
         "skin_breakdown": "0",
         "skin_creasing": "0",
-        "surface": "0"
+        "surface": "1"
     },
     "files": {
         "1": "20250218_1039_000411.png",
@@ -174,7 +174,7 @@
             "plu_stickers": "0",
             "reddish": "0",
             "rotten": "0",
-            "scars": "0",
+            "scars": "1",
             "skin_breakdown": "0",
             "skin_creasing": "0",
             "surface": "0"
@@ -219,7 +219,7 @@
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "0"
+            "surface": "1"
         },
         "view_9": {
             "bleaching": "0",

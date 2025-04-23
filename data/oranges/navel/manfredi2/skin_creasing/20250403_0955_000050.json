@@ -104,7 +104,7 @@
             "green": "0",
             "hollow": "0",
             "skin_breakdown": "1",
-            "damage_by_pliers": "0",
+            "damage_by_pliers": "1",
             "deformed_counterpeduncle": "0",
             "oil_spots": "0",
             "discarded": "0",

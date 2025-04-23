@@ -10,7 +10,7 @@
     "annotations": {
         "bleaching": "0",
         "cracks": "0",
-        "damage_by_pliers": "0",
+        "damage_by_pliers": "1",
         "deformed_counterpeduncle": "0",
         "deformed_peduncle": "0",
         "green": "0",
@@ -77,7 +77,7 @@
         "view_2": {
             "bleaching": "0",
             "cracks": "0",
-            "damage_by_pliers": "0",
+            "damage_by_pliers": "1",
             "deformed_counterpeduncle": "0",
             "deformed_peduncle": "0",
             "discarded": "0",
@@ -91,7 +91,7 @@
             "reddish": "0",
             "rotten": "0",
             "scars": "0",
-            "skin_breakdown": "0",
+            "skin_breakdown": "1",
             "skin_creasing": "0",
             "surface": "0"
         },

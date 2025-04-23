@@ -25,7 +25,7 @@
         "scars": "1",
         "skin_breakdown": "0",
         "skin_creasing": "0",
-        "surface": "0"
+        "surface": "1"
     },
     "files": {
         "1": "20250218_0911_000280.png",
@@ -261,7 +261,7 @@
             "scars": "1",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "0"
+            "surface": "1"
         }
     }
 }

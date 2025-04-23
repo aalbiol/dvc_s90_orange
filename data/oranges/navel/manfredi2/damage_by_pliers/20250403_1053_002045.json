@@ -12,7 +12,7 @@
         "cracks": "0",
         "damage_by_pliers": "0",
         "deformed_counterpeduncle": "0",
-        "deformed_peduncle": "0",
+        "deformed_peduncle": "1",
         "green": "0",
         "hollow": "0",
         "insect": "0",
@@ -49,7 +49,7 @@
             "bleaching": "0",
             "mechanical_damage": "0",
             "skin_creasing": "0",
-            "deformed_peduncle": "0",
+            "deformed_peduncle": "1",
             "plu_stickers": "0",
             "reddish": "0"
         },
@@ -70,7 +70,7 @@
             "bleaching": "0",
             "mechanical_damage": "0",
             "skin_creasing": "0",
-            "deformed_peduncle": "0",
+            "deformed_peduncle": "1",
             "plu_stickers": "0",
             "reddish": "0"
         },
@@ -133,7 +133,7 @@
             "bleaching": "0",
             "mechanical_damage": "0",
             "skin_creasing": "0",
-            "deformed_peduncle": "0",
+            "deformed_peduncle": "1",
             "plu_stickers": "0",
             "reddish": "0"
         },
