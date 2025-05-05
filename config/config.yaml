@@ -271,8 +271,8 @@ model:
   model_version: 50
 
 train:
-  batch_size: 10
-  epochs: 35
+  batch_size: 8
+  epochs: 60
   in_memory: true
   initial_model: null 
   label_smoothing: 0.00
@@ -286,9 +286,9 @@ train:
   unfreeze_epoch: 30
   warmup: 3
   weights_decay: 0.01
-  logname: s90_patch_repasoD
-  focal_loss_gamma: 0
-  focal_loss_alpha: 0.8 # Para la clase positiva
+  logname: s90_patch_repasoD_alpha_0.7
+  focal_loss_gamma: 2
+  focal_loss_alpha: 0.7 # Para la clase positiva
 
   augmentation:
     random_rotation: 30
@@ -317,7 +317,7 @@ evaluate:
   model_dir: out_models
   model_file: s90_patch_repasod.pkl
   
-  report_dir: out_evaluate_repaso_insect2_gamma_0
+  report_dir: out_evaluate_patch_repasoD
   train_predictions: train_scores.json
   val_predictions: val_scores.json
   aucs: aucs.json
