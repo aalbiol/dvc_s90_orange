@@ -1,0 +1,148 @@
+data:
+  prob_train: 0.7
+  prob_test: 0.1
+  crop_size: null
+  use_views_annotations: true
+  
+  training_size:
+  - 224
+  - 224
+  #delimiter: _
+  maxvalues: null
+  
+  root_folder: data
+  terminaciones: ".npz" # Para cimgs todos los canales van en un solo archivo .cimg
+  channel_list:
+  - R 
+  - G 
+  - B 
+  - NIR
+  - UV
+
+  train_list_name: train_list.txt
+  val_list_name: val_list.txt
+  test_list_name: test_list.txt
+# Se emplean para crear listas de train-val-test
+  dirs:
+    - mandarins/clementine/KDC/20220808_154231_Img_20220808_154156produccionClementina
+    - mandarins/clementine/KDC/20220803_225931_CLEMENTINE_Encoder_SURFACE1    
+    - mandarins/clementine/KDC/20220804_221439_CLEMENTINE_ENCODER_Hollow    
+    - mandarins/clementine/KDC/20220803_230921_CLEMENTINE_Encoder_OilSpots    
+    - mandarins/clementine/KDC/20220803_230515_CLEMENTINE_Encoder_Creasing1    
+    - mandarins/clementine/KDC/20220808_154209_Img_20220808_154156produccionClementina    
+    - mandarins/clementine/KDC/20220803_231441_CLEMENTINE_Encoder_Good
+    - mandarins/clementine/KDC/20220803_230825_CLEMENTINE_Encoder_Geens    
+    - mandarins/clementine/KDC/20220803_231126_CLEMENTINE_Encoder_Scar    
+    - mandarins/clementine/KDC/20220803_230703_CLEMENTINE_Encoder_rot    
+    - mandarins/clementine/KDC/20220808_154219_Img_20220808_154156produccionClementina
+    - mandarins/clementine/KDC/20220803_231323_CLEMENTINE_Encoder_Skin
+    - mandarins/nardocot/manfredi
+    - mandarins/tango/KDC/20220804_230331_TANGO_encoder_Scar
+    - mandarins/tango/KDC/20220806_185520_tango_ENCODER_MANCHAS
+    - mandarins/tango/KDC/20220805_180026_tangoPROD
+    - mandarins/tango/KDC/20220805_225459_tango_ENCODER_scars
+    - mandarins/tango/KDC/20220804_230730_TANGO_encoder_good
+    - mandarins/tango/KDC/20220804_230522_TANGO_encoder_SkinDamage
+    - mandarins/tango/KDC/20220805_172517_tango_PROD
+    - mandarins/tango/KDC/20220806_185859_tango_ENCODER_ROTAS
+    - mandarins/tango/KDC/20220804_230235_TANGO_encoder_Surface
+    - mandarins/tango/KDC/20220805_231606_TANGO_ENCODER_surface
+    - oranges/navel/manfredi
+    - oranges/navel/KDC/20220810_021928_Encoder_Buenas
+    - oranges/navel/KDC/20220810_022231_Encoder_decay
+    - oranges/navel/KDC/20220829_214906_prod_naranja_plu
+    - oranges/navel/KDC/20220829_214322_prod_naranja_plu
+    - oranges/navel/KDC/20220810_022140_Encoder_oilspot
+############################# manfredi2 ###############################
+    - mandarins/clementine/manfredi2/light_scars
+    - oranges/navel/manfredi2/damage_by_pliers
+    - oranges/navel/manfredi2/deformed_counterpeduncle
+    - oranges/navel/manfredi2/deformed_peduncle
+    - oranges/navel/manfredi2/light_scars
+    - oranges/navel/manfredi2/mechanical_damage
+    - oranges/navel/manfredi2/skin_creasing
+    - oranges/navel/manfredi2/skin_creasing2
+                 
+              
+
+model:
+  defect_types:
+  - cracks
+  - damage_by_pliers
+  - deformed_peduncle
+  - green
+  - hollow
+  - insect
+  - light_scars
+  - mechanical_damage
+  - oil_spots
+  - plu_stickers
+  - reddish
+  - rotten
+  - scars
+  - skin_breakdown
+  - surface
+  num_channels_input: 5
+  model_version: 50
+
+train:
+  batch_size: 8
+  epochs: 60
+  in_memory: true
+  initial_model: null 
+  label_smoothing: 0.00
+  learning_rate: 0.03
+  optimizer: sgd
+  num_workers: 0
+  output:
+    model_file: s90_patch_repasod.pkl
+    path: out_models
+  p_dropout: 0.4
+  unfreeze_epoch: 30
+  warmup: 3
+  weights_decay: 0.01
+  logname: s90_patch_repasoD_alpha_0.7
+  focal_loss_gamma: 2
+  focal_loss_alpha: 0.7 # Para la clase positiva
+
+  augmentation:
+    random_rotation: 30
+    brightness: 
+    - 0.8
+    - 1.3
+    contrast:
+    - 0.8
+    - 1.3
+    hue: 0.01
+    saturation: 0.15
+    blur:
+    - 0.1
+    - 1.5
+    affine:
+      scale:
+      - 0.8
+      - 1.1
+      shear: 15
+      translate: 
+      - 0.0
+      - 0.0
+      degrees: 20
+
+evaluate:
+  model_dir: out_models
+  model_file: s90_patch_repasod.pkl
+  
+  report_dir: out_evaluate_patch_repasoD
+  train_predictions: train_scores.json
+  val_predictions: val_scores.json
+  test_predictions: test_scores.json  
+  aucs: aucs.json
+
+
+predict:
+  model_dir: out_models
+  model_file: s90_patch_repasod.pkl
+  patron: "*.npz"
+  
+  report_dir: out_predict
+    
