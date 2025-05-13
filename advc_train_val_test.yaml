@@ -1,0 +1,55 @@
+stages:
+  split_train_val:
+    cmd: python ../src_clasificacion_vistas/data/split_train_val_test.py config2/config.yaml
+    deps:
+    - ../src_clasificacion_vistas/data/split_train_val_test.py
+    params:
+    - config2/config.yaml:
+      - data
+
+       
+
+
+
+  train:
+    cmd: python ../src_clasificacion_vistas/train/trainPatchMIL_Lists.py config2/config.yaml
+    deps:
+    - ../src_clasificacion_vistas/train/trainMIL.py
+
+
+    params:
+    - config/config2.yaml:
+      - data
+      - train
+      - model 	
+    outs:
+    - out_models/orange_s90.pkl
+
+  evaluate:
+    cmd: python ../src_clasificacion_vistas/evaluate/evaluatePatchMIL_Lists.py config2/config.yaml
+    deps:
+    - ../src_clasificacion_vistas/evaluate/evaluatePatchMIL_Lists.py
+    - out_models/s90_patch_repasod.pkl
+    params:
+    - config/config2.yaml:
+      - data
+      - evaluate
+      - model 	
+    outs:
+    - out_evaluate/aucs.json
+    - out_evaluate/train_scores.json
+    - out_evaluate/val_scores.json
+  
+  # report:
+  #   cmd: jupyter nbconvert --to notebook --execute reports/analisis_prestaciones.ipynb
+  #   deps:
+  #   - reports/analisis_prestaciones.ipynb
+  #   - out_evaluate/aucs.json
+  #   - out_evaluate/train_scores.json
+  #   - out_evaluate/val_scores.json    
+  #   outs:
+  #   - reports/analisis_prestaciones.nbconvert.ipynb
+
+
+  
+

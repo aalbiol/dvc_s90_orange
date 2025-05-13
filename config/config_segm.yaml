@@ -1,15 +1,20 @@
 data:
-  prob_train: 0.8
+  prob_train: 0.7
+  prob_test: 0.1
   crop_size: null
+  use_views_annotations: true
   
   training_size:
   - 224
   - 224
-  #delimiter: _
-  maxvalues: 255
+  delimiter: null
+  maxvalues: null
+  use_segmentation_masks : false 
   
   root_folder: data
-  terminaciones: ".npz" # Para cimgs todos los canales van en un solo archivo .cimg
+  suffixes:
+  - .npz
+
   channel_list:
   - R 
   - G 
@@ -78,7 +83,7 @@ data:
   - - train_list.txt
     - mandarins/tango/KDC/20220805_172517_tango_PROD
     - mandarins/tango/KDC/20220805_172517_tango_PROD
-  - - train_list.txt
+  - - train_list.txt 
     - mandarins/tango/KDC/20220806_185859_tango_ENCODER_ROTAS
     - mandarins/tango/KDC/20220806_185859_tango_ENCODER_ROTAS
   - - train_list.txt
@@ -199,41 +204,103 @@ data:
     - oranges/navel/KDC/20220810_022140_Encoder_oilspot
     - oranges/navel/KDC/20220810_022140_Encoder_oilspot        
 
+              
+
 model:
   defect_types:
+  - cracks
+  - damage_by_pliers
+  - deformed_peduncle
   - green
   - hollow
   #- insect
   - light_scars
+  - mechanical_damage
   - oil_spots
   - plu_stickers
+  - reddish
   - rotten
   - scars
   - skin_breakdown
   - surface
-
   num_channels_input: 5
-  model_version: vit_16
+  model_version: 50
 
 train:
-  batch_size: 10
-  epochs: 30
+  batch_size: 8
+  epochs: 60
   in_memory: true
-  initial_model: null
-  label_smoothing: 0.0
-  learning_rate: 0.01
+  initial_model: null 
+  label_smoothing: 0.00
+  learning_rate: 0.03
   optimizer: sgd
-  num_workers: -1
+  gamma_param: 0.1
+  num_workers: 0
   output:
-    model_file: s90_patch_vit16.pkl
+    model_file: s90_segmentacion.pkl
     path: out_models
-  p_dropout: 0.4 
-  unfreeze_epoch: 50
+  p_dropout: 0.4
+  unfreeze_epoch: 30
   warmup: 3
-  weights_decay: 0.03
-  logname: prueba_patch_vit_16
-  focal_loss_gamma: 2
-  focal_loss_alpha: 0.8
+  weights_decay: 0.01
+  wandb_project: WANDB_DVC_S90_segmentation 
+  logname: s90_segmentacion
+  log_cimg: null
+  # focal_loss_gamma: 2
+  # focal_loss_alpha: 0.7 # Para la clase positiva
+
+  # 224x224=50k
+  min_defect_area:
+  - 1000 # cracks
+  - 500 # dam_by_pliers
+  - 500 #def_peduncle
+  - 1000 # green
+  - 2000 # hollow
+  - 500 # light_scars
+  - 500 # mechanical_damage
+  - 500 # oil_spots
+  - 500 # plu_stickers
+  - 7000 # reddish
+  - 1000 # rotten
+  - 500 # scars
+  - 300 # skin_breakdown
+  - 7000 # surface
+  constrain_weight: 5.0
+  min_negative_fraction: 
+  - 0.80 # cracks
+  - 0.95 # dam_by_pliers
+  - 0.90 #def_peduncle
+  - 0.02 # green
+  - 0.60 # hollow
+  - 0.80 # light_scars    
+  - 0.95 # mechanical_damage
+  - 0.95 # oil_spots
+  - 0.95 # plu_stickers
+  - 0.02 # reddish
+  - 0.50 # rotten
+  - 0.80 # scars 
+  - 0.95 # skin_breakdown
+  - 0.15 #surface
+
+  
+
+  bottom_constrain_weight: 1.0
+  binmask_weight: 30.0 
+  class_weights: 
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0    
 
   augmentation:
     random_rotation: 30
@@ -260,18 +327,21 @@ train:
 
 evaluate:
   model_dir: out_models
-  model_file: s90_patch_vit16.pkl
+  model_file: s90_segmentacion.pkl
   
-  report_dir: out_evaluate_patch_vit16
+  report_dir: out_segment
   train_predictions: train_scores.json
   val_predictions: val_scores.json
+  test_predictions: test_scores.json  
   aucs: aucs.json
 
 
 predict:
   model_dir: out_models
-  model_file: s90.pkl
-  patron: "*.npz"
-  
-  report_dir: out_predict
+  model_file: s90_segmentacion.pkl
+  defectos:
+  - green
+  - deformed_peduncle
+  - oil_spots
+  #report_dir: out_predict
     
