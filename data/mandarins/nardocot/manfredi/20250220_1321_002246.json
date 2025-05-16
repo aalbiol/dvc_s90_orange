@@ -20,12 +20,12 @@
         "mechanical_damage": "0",
         "oil_spots": "0",
         "plu_stickers": "0",
-        "reddish": "0",
         "rotten": "1",
         "scars": "0",
         "skin_breakdown": "0",
         "skin_creasing": "0",
-        "surface": "1"
+        "surface": "1",
+        "sun_burn": "0"
     },
     "files": {
         "1": "20250220_1321_002246.png",
@@ -46,12 +46,12 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
             "rotten": "1",
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "1",
+            "sun_burn": "0"
         },
         "view_1": {
             "bleaching": "0",
@@ -67,12 +67,12 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
             "rotten": "1",
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "1",
+            "sun_burn": "0"
         },
         "view_2": {
             "bleaching": "0",
@@ -88,12 +88,12 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
             "rotten": "1",
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "1"
+            "surface": "1",
+            "sun_burn": "0"
         }
     }
 }

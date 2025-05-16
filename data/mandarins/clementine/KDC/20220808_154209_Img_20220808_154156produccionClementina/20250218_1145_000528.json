@@ -20,12 +20,12 @@
         "mechanical_damage": "0",
         "oil_spots": "0",
         "plu_stickers": "0",
-        "reddish": "0",
         "rotten": "0",
         "scars": "0",
         "skin_breakdown": "0",
         "skin_creasing": "0",
-        "surface": "0"
+        "surface": "0",
+        "sun_burn": "0"
     },
     "files": {
         "1": "20250218_1145_000528.png",
@@ -46,12 +46,12 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
             "rotten": "0",
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "0"
+            "surface": "0",
+            "sun_burn": "0"
         },
         "view_1": {
             "bleaching": "0",
@@ -67,12 +67,12 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
             "rotten": "0",
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "0"
+            "surface": "0",
+            "sun_burn": "0"
         },
         "view_2": {
             "bleaching": "0",
@@ -88,12 +88,12 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
             "rotten": "0",
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "0"
+            "surface": "0",
+            "sun_burn": "0"
         },
         "view_3": {
             "bleaching": "0",
@@ -109,12 +109,12 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
             "rotten": "0",
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "0"
+            "surface": "0",
+            "sun_burn": "0"
         },
         "view_4": {
             "bleaching": "0",
@@ -130,12 +130,12 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
             "rotten": "0",
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "0"
+            "surface": "0",
+            "sun_burn": "0"
         },
         "view_5": {
             "bleaching": "0",
@@ -151,12 +151,12 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
             "rotten": "0",
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "0"
+            "surface": "0",
+            "sun_burn": "0"
         },
         "view_6": {
             "bleaching": "0",
@@ -172,12 +172,12 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
             "rotten": "0",
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "0"
+            "surface": "0",
+            "sun_burn": "0"
         },
         "view_7": {
             "bleaching": "0",
@@ -193,12 +193,12 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
             "rotten": "0",
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "0"
+            "surface": "0",
+            "sun_burn": "0"
         },
         "view_8": {
             "bleaching": "0",
@@ -214,12 +214,12 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
             "rotten": "0",
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "0"
+            "surface": "0",
+            "sun_burn": "0"
         },
         "view_9": {
             "bleaching": "0",
@@ -235,12 +235,12 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
             "rotten": "0",
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "0"
+            "surface": "0",
+            "sun_burn": "0"
         },
         "view_10": {
             "bleaching": "0",
@@ -256,12 +256,12 @@
             "mechanical_damage": "0",
             "oil_spots": "0",
             "plu_stickers": "0",
-            "reddish": "0",
             "rotten": "0",
             "scars": "0",
             "skin_breakdown": "0",
             "skin_creasing": "0",
-            "surface": "0"
+            "surface": "0",
+            "sun_burn": "0"
         }
     }
 }

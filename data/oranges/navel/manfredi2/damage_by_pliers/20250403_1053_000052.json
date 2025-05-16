@@ -25,7 +25,7 @@
         "skin_breakdown": "0",
         "skin_creasing": "0",
         "surface": "0",
-        "reddish": "1"
+        "sun_burn": "1"
     },
     "files": {
         "1": "20250403_1053_000052.png",
@@ -51,7 +51,7 @@
             "skin_creasing": "0",
             "deformed_peduncle": "0",
             "plu_stickers": "0",
-            "reddish": "0"
+            "sun_burn": "0"
         },
         "view_1": {
             "insect": "0",
@@ -72,7 +72,7 @@
             "skin_creasing": "0",
             "deformed_peduncle": "0",
             "plu_stickers": "0",
-            "reddish": "0"
+            "sun_burn": "0"
         },
         "view_2": {
             "insect": "0",
@@ -93,7 +93,7 @@
             "skin_creasing": "0",
             "deformed_peduncle": "0",
             "plu_stickers": "0",
-            "reddish": "0"
+            "sun_burn": "0"
         },
         "view_3": {
             "insect": "0",
@@ -114,7 +114,7 @@
             "skin_creasing": "0",
             "deformed_peduncle": "0",
             "plu_stickers": "0",
-            "reddish": "0"
+            "sun_burn": "0"
         },
         "view_4": {
             "insect": "0",
@@ -135,7 +135,7 @@
             "skin_creasing": "0",
             "deformed_peduncle": "0",
             "plu_stickers": "0",
-            "reddish": "0"
+            "sun_burn": "0"
         },
         "view_5": {
             "insect": "0",
@@ -156,7 +156,7 @@
             "skin_creasing": "0",
             "deformed_peduncle": "0",
             "plu_stickers": "0",
-            "reddish": "1"
+            "sun_burn": "1"
         },
         "view_6": {
             "insect": "0",
@@ -177,7 +177,7 @@
             "skin_creasing": "0",
             "deformed_peduncle": "0",
             "plu_stickers": "0",
-            "reddish": "1"
+            "sun_burn": "1"
         },
         "view_7": {
             "insect": "0",
@@ -198,7 +198,7 @@
             "skin_creasing": "0",
             "deformed_peduncle": "0",
             "plu_stickers": "0",
-            "reddish": "1"
+            "sun_burn": "1"
         },
         "view_8": {
             "insect": "0",
@@ -219,7 +219,7 @@
             "skin_creasing": "0",
             "deformed_peduncle": "0",
             "plu_stickers": "0",
-            "reddish": "1"
+            "sun_burn": "1"
         },
         "view_9": {
             "insect": "0",
@@ -240,7 +240,7 @@
             "skin_creasing": "0",
             "deformed_peduncle": "0",
             "plu_stickers": "0",
-            "reddish": "1"
+            "sun_burn": "1"
         },
         "view_10": {
             "insect": "0",
@@ -261,7 +261,7 @@
             "skin_creasing": "0",
             "deformed_peduncle": "0",
             "plu_stickers": "0",
-            "reddish": "1"
+            "sun_burn": "1"
         }
     }
 }

@@ -1,0 +1,5 @@
+outs:
+- md5: d482b8b403919ff81655f4ab17dc1f8d
+  size: 12306220
+  hash: md5
+  path: 20250508_1521_000084.npz

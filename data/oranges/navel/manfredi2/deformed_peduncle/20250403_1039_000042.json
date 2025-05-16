@@ -25,8 +25,7 @@
         "skin_breakdown": "0",
         "skin_creasing": "0",
         "surface": "0",
-        "reddish": "1",
-        "sun_burn": "0"
+        "sun_burn": "1"
     },
     "files": {
         "1": "20250403_1039_000042.png",
