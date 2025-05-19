@@ -25,7 +25,8 @@
         "skin_breakdown": "0",
         "skin_creasing": "0",
         "surface": "0",
-        "sun_burn": "0"
+        "sun_burn": "0",
+        "saltamontes": "0"
     },
     "files": {
         "1": "20250402_1322_000018.png",
