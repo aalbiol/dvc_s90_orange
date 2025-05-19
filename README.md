@@ -30,11 +30,30 @@ ______________________________________________________
 
 # Procedimientos manuales
 
-## Split Train-Val
+## Añadir un nuevo lote de imágenes:
 
+* Crear una nueva carpeta en *data* 
 ```
- python ../src_clasificacion_vistas/data/MIL_split_train_val.py config/config.yaml
+mkdir data/nuevo_lote
 ```
+
+* Copiar dentro de ellas los subdirectorios conteniendo .npz, .png, .json
+
+* Crear preanotaciones para anotar con CVAT
+
+  * Crear una lista con las nuevas imágenes
+  ```
+  find data/nuevo_lote -name \*.json > data/nuevo_lote.txt
+  ```
+  * Crear un fichero de configuración clonando el de un modelo entrenado, y poner como lista de *test* *data/nuevo_lote.txt*
+    * Configurar un directorio de salida de la evaluación diferente
+    * Realizar la evaluación
+    ```
+    python ../src_clasificacion_vistas/evaluate/evaluatePatchMIL_Lists.py config/config_preanot.yml
+    ```
+    * Usando el cuaderno *notebooks/preanotar_nuevo_lote.ipynb*, **configurando adecuadamente los directorios** de la evaluación y de salida, generar los pngs y jsons para CVAT
+
+* Recoger anotaciones de CVAT
 
 ## Para entrenar a mano
 
@@ -46,7 +65,7 @@ ______________________________________________________
 ```
 conda activate mscandvc
 cd dvc_s90_orange
-python ../src_clasificacion_vistas/train/trainMIL.py --config config/config.yaml
+python ../src_clasificacion_vistas/train/trainPatchMIL_Lists.py config/config.yaml
 ```
 
 ### Guadar modelo en DVC
