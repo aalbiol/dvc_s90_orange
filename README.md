@@ -51,9 +51,11 @@ mkdir data/nuevo_lote
     ```
     python ../src_clasificacion_vistas/evaluate/evaluatePatchMIL_Lists.py config/config_preanot.yml
     ```
-    * Usando el cuaderno *notebooks/preanotar_nuevo_lote.ipynb*, **configurando adecuadamente los directorios** de la evaluación y de salida, generar los pngs y jsons para CVAT
+    * Con el cuaderno *notebooks_dataset/preanotar_nuevo_lote.ipynb* Generar los jsons y pngs para subir a CVAT
+
 
 * Recoger anotaciones de CVAT
+    * Usando el cuaderno *notebooks_dataset/preanotarimbricar_jsons_frutos_quitar_views_annotations_remove_discarded_nuevo_lote.ipynb*, **configurando adecuadamente los directorios** de la evaluación y de salida, generar los pngs y jsons para CVAT . Elimina las imágenes de la carpeta "discarded"
 
 ## Para entrenar a mano
 
@@ -65,7 +67,7 @@ mkdir data/nuevo_lote
 ```
 conda activate mscandvc
 cd dvc_s90_orange
-python ../src_clasificacion_vistas/train/trainPatchMIL_Lists.py config/config.yaml
+python ../src_clasificacion_vistas/train/trainPatchMIL_Lists.py config2/configSara.yaml
 ```
 
 ### Guadar modelo en DVC
@@ -91,38 +93,14 @@ También se calculan los aucs de cada tipo de defecto
 ```
 conda activate mscandvc
 cd dvc_s90_orange
-python ../src_clasificacion_vistas/evaluate/evaluateMIL .py config/config.yaml
-```
-
-## Para generar report a mano 
-
-Reejecuta todas las celdas de un cuaderno releyendo los ficheros con los scores de la última evaluación y actualiza el jupyter
-
-```
-conda activate mscandvc
-cd dvc_s90_orange
-jupyter nbconvert --to notebook --execute  reports/analisis_prestaciones.ipynb
-```
-
-## Para realizar inferencia a  mano
-
-La salida se guarda en ficheros json (uno por directorio) en out_predict
-```
-conda activate mscandvc
-cd dvc_s90_orange
-python ../src_clasificacion_vistas/evaluate/predictMIL .py config/config1.yaml directorio1 directorio2 directorio3
+ppython ../src_clasificacion_vistas/evaluate/evaluatePatchMIL_Lists.py config2/configSara.yaml
 ```
 
 
-## Para generar reports a mano
 
-Reejecuta todas las celdas de un cuaderno releyendo los ficheros con los scores de la última evaluación y actualiza el jupyter
 
-```
-conda activate mscandvc
-cd dvc_s90_orange
-jupyter nbconvert --to notebook --execute  reports/analisis_prestaciones.ipynb
-```
+
+
 
 
 ## Para 
@@ -133,13 +111,11 @@ Se pueden reproducir todos los pasos anteriores de un tirón, por ejemplo si se 
 
 Se lee el fichero **dvc.yaml** , que és donde se describen todos los pasos:
 
-* split train-val
 
 * Entrenamiento
 
 * Evaluación
 
-* Reports
 
 
 ```
@@ -148,17 +124,5 @@ cd dvc_olivas_clasificacion_vistas
 dvc repro
 ```
 
-# Inferencia sobre imágenes no anotadas
 
-Existe un script que recibe como entrada una lista de directorios y calcula los scores de cada defecto de cada imagen
-
-De un fichero yaml de configuración se lee:
-
-* Los patrones para encontrar imágenes 
-* la configuración de donde se guarda el resultado
-* El modelo a emplear (contiene información sobre la normalización)
-
-```
-python ../src_clasificacion_vistas/predict/predict.py config/config.yaml  directorio1 directorio2 ...'
-```
 
