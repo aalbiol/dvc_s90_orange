@@ -1,0 +1,6 @@
+outs:
+- md5: 188767718fff044f0a8805e091fdcc28
+  size: 5154820
+  isexec: true
+  hash: md5
+  path: 20250508_1437_002012.npz

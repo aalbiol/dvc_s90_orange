@@ -57,6 +57,13 @@ mkdir data/nuevo_lote
 * Recoger anotaciones de CVAT
     * Usando el cuaderno *notebooks_dataset/preanotarimbricar_jsons_frutos_quitar_views_annotations_remove_discarded_nuevo_lote.ipynb*, **configurando adecuadamente los directorios** de la evaluación y de salida, generar los pngs y jsons para CVAT . Elimina las imágenes de la carpeta "discarded"
 
+* Subir a git y a dvc
+git add *.json
+dvc add *.png
+dvc add *.npz
+
+* Generar listas de train, val y test
+
 ## Para entrenar a mano
 
 * El fichero generado está configurado en el yaml
