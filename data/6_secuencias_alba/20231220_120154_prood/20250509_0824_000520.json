@@ -1,0 +1,38 @@
+{
+    "information": {
+        "BatchName": "mandarine",
+        "BatchType": "",
+        "BatchCoop": "manfredi",
+        "Sequence": "20231220 120154 prood"
+    },
+    "machineSerialNum": "engineering",
+    "maxValChannels": 1023,
+    "channels": "H;S;I;NIR;UV;R;G;B;AuxB1",
+    "annotations": {
+        "bleaching": "0",
+        "cracks": "0",
+        "damage_by_pliers": "0",
+        "deformed_counterpeduncle": "0",
+        "deformed_peduncle": "0",
+        "green": "0",
+        "hollow": "1",
+        "insect": "0",
+        "light_scars": "0",
+        "mechanical_damage": "0",
+        "oil_spots": "0",
+        "piel_gruesa": "0",
+        "plu_stickers": "0",
+        "reddish": "0",
+        "rotten": "0",
+        "saltamontes": "0",
+        "scars": "0",
+        "skin_breakdown": "0",
+        "skin_creasing": "0",
+        "sun_burn": "0",
+        "surface": "0"
+    },
+    "files": {
+        "1": "20250509_0824_000520.png",
+        "2": "20250509_0824_000520.npz"
+    }
+}

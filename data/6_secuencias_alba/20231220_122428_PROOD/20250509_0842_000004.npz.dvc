@@ -1,0 +1,6 @@
+outs:
+- md5: cb84edf1c36214cdc94e83bff2ea8984
+  size: 4723874
+  isexec: true
+  hash: md5
+  path: 20250509_0842_000004.npz
