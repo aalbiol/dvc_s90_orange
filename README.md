@@ -61,9 +61,19 @@ mkdir data/nuevo_lote
 git add *.json
 dvc add *.png
 dvc add *.npz
+git commit -m "Nuevo dataset introducido"
+git push
+dvc push
 
 * Generar listas de train, val y test
-
+  * Buscar los nombres de los jsons nuevos
+  * Crear una lista aleatorizada de los mismos
+  * Sobre esa lista
+    * 70 % primeros a data/train_list_nuevo_lote.txt
+    * 20 % centrales a data/val_list_nuevo_lote.txt
+    * el resto a data/test_list_nuevo_lote.txt
+  * cat data/train_list_nuevo_lote.txt >> data/train_list.txt
+  * idem con val_list y test_list.
 ## Para entrenar a mano
 
 * El fichero generado está configurado en el yaml

@@ -1,6 +1,5 @@
 data/5_secuencias_alba/20231206_124453_prood/20250508_1608_002136.json
 data/5_secuencias_alba/20231206_124453_prood/20250508_1618_000153.json
-data/5_secuencias_alba/20231206_124528_prood/20250508_1636_000245.json
 data/5_secuencias_alba/20231206_124453_prood/20250508_1610_000112.json
 data/5_secuencias_alba/20231204_160248_producto_malo/20250508_1436_000017.json
 data/5_secuencias_alba/20231206_124453_prood/20250508_1614_002165.json
