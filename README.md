@@ -100,6 +100,19 @@ Lo anterior actualiza/crea fichero out_models.pkl.dvc
 
 Seguidamente deberemos hacer **git commit**
 
+### Exportar modelo a formato Torch Script
+
+Para exportar el modelo en formato Torch Script para inferencia en C++ hay que
+ejecutar el script **export_pkl_to_ts_model.py**.
+
+Para ello:
+
+```
+cd ../src_dl_utils/tools
+python export_pkl_to_ts_model.py .\..\..\dvc_s90_orange\out_models\s90_patch_Alba6_from5_2.pkl
+```
+Con esto, se generará el modelo exportado en el mismo directorio que el modelo pkl, con el mismo nombre pero formato .ts
+
 ## Para evaluar a mano
 
 Se lee el modelo y todas las imágenes de train y validación y se guardan sus scores.
