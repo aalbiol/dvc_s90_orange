@@ -1,0 +1,6 @@
+outs:
+- md5: 9b79e0bf18983ea5f8951d5219b18681.dir
+  size: 816732764
+  nfiles: 17
+  hash: md5
+  path: defect_catalog
