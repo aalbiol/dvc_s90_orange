@@ -1,0 +1,101 @@
+data:
+  crop_size: null
+  use_views_annotations: false
+  
+  training_size:
+  - 224
+  - 224
+  #delimiter: _
+  maxvalues: null
+  
+  root_folder: data
+  terminaciones: ".npz" # Para cimgs todos los canales van en un solo archivo .cimg
+  channel_list:
+  - R 
+  - G 
+  - B 
+  - NIR
+
+
+  train_list_name: tmp_train_list.txt
+  val_list_name: tmp_val_list.txt
+  test_list_name: tmp_test_list.txt
+# Se emplean para crear listas de train-val-test
+                 
+              
+
+model:
+  defect_types:
+  - cracks
+  - damage_by_pliers
+  - deformed_peduncle
+  - green
+  - hollow
+  - insect
+  - light_scars
+  - mechanical_damage
+  - oil_spots
+  - plu_stickers
+  - rotten
+  - saltamontes
+  - scars
+  - skin_breakdown
+  - sun_burn
+  - surface
+  num_channels_input: 4
+  model_version: 50
+
+train:
+  batch_size: 8
+  epochs: 25
+  in_memory: true
+  initial_model: out_models/con_shiny__sinUV.pkl
+  label_smoothing: 0.00
+  learning_rate: 0.01
+  optimizer: sgd
+  num_workers: 0
+  output:
+    model_file: con_shiny_sinUV_phase2.pkl
+    path: out_models
+  p_dropout: 0.4
+  unfreeze_epoch: 20
+  warmup: 0
+  weights_decay: 0.01
+  logname: training_sin_shiny_UV_phase2
+  focal_loss_gamma: 2
+  focal_loss_alpha: 0.7 # Para la clase positiva
+
+  augmentation:
+    random_rotation: 30
+    brightness: 
+    - 0.8
+    - 1.3
+    contrast:
+    - 0.8
+    - 1.3
+    hue: 0.01
+    saturation: 0.15
+    blur:
+    - 0.1
+    - 1.5
+    affine:
+      scale:
+      - 0.8
+      - 1.1
+      shear: 15
+      translate: 
+      - 0.0
+      - 0.0
+      degrees: 20
+
+evaluate:
+  model_dir: out_models
+  model_file: con_shiny_sinUV_phase2.pkl
+  
+  report_dir: out_evaluate_con_shiny_sin_UV
+  train_predictions: train_scores.json
+  val_predictions: val_scores.json
+  test_predictions: test_scores.json  
+  aucs: aucs.json
+
+

@@ -1,0 +1,18 @@
+{
+    "information": {
+        "BatchName": "oranges",
+        "BatchType": "",
+        "BatchCoop": "brulaf",
+        "Sequence": "20211116 183248 Img_20211116_180219_PodridoEncoder2"
+    },
+    "machineSerialNum": "engineering",
+    "maxValChannels": 1023,
+    "channels": "H;S;I;NIR;UV;R;G;B;AuxB1",
+    "annotations": {
+        "rotten": "1"
+    },
+    "files": {
+        "1": "20250602_1729_002007.png",
+        "2": "20250602_1729_002007.npz"
+    }
+}

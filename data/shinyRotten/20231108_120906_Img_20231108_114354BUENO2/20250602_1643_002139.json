@@ -1,0 +1,18 @@
+{
+    "information": {
+        "BatchName": "oranges",
+        "BatchType": "",
+        "BatchCoop": "brulaf",
+        "Sequence": "20231108 120906 Img_20231108_114354BUENO2"
+    },
+    "machineSerialNum": "engineering",
+    "maxValChannels": 1023,
+    "channels": "H;S;I;NIR;UV;R;G;B;AuxB1",
+    "annotations": {
+        "rotten": "0"
+    },
+    "files": {
+        "1": "20250602_1643_002139.png",
+        "2": "20250602_1643_002139.npz"
+    }
+}
